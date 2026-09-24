@@ -1,0 +1,7484 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "question": "Who is your GOD?",
+    "options": [
+      "Ego",
+      "Lord of the Universe",
+      "Money",
+      "Property"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 50:25",
+    "source_row": 3,
+    "active": true
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "question": "The First Verse in the Quran is \"In the name of GOD, Most _____, Most ______\".",
+    "options": [
+      "Gracious, Merciful",
+      "Praiseworthy, Gracious",
+      "Merciful, Gracious",
+      "Gracious, Praiseworthy"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 1:1",
+    "source_row": 4,
+    "active": true
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "question": "During which month Quran was revealed ?",
+    "options": [
+      "Muharram",
+      "Dhul Hijjah",
+      "Ramadan",
+      "Safar"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 2:185",
+    "source_row": 5,
+    "active": true
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "question": "Which is the final scripture from GOD?",
+    "options": [
+      "Quran",
+      "Bible",
+      "Torah",
+      "Psalms"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 5:48",
+    "source_row": 6,
+    "active": true
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "question": "Who is the teacher of the Quran?",
+    "options": [
+      "GOD",
+      "Prophet Muhammad",
+      "Scholars",
+      "Angels"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 55:1-4",
+    "source_row": 7,
+    "active": true
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "question": "On which mountain did God speak to Moses  ?",
+    "options": [
+      "Mount Sinai",
+      "Mount Arafat",
+      "Mount Aalat",
+      "Mount Manna"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 28:29-30",
+    "source_row": 8,
+    "active": true
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "question": "Who is Moses's brother?",
+    "options": [
+      "Aaron",
+      "Joseph",
+      "Jesus",
+      "Jacob"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 19:51-53",
+    "source_row": 9,
+    "active": true
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "question": "Which scripture was revelaed during the month of Ramadan?",
+    "options": [
+      "Gospel",
+      "Quran",
+      "Torah",
+      "Psalms"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 2:185",
+    "source_row": 10,
+    "active": true
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "question": "How many Surahs are there in the Quran?",
+    "options": [
+      "116",
+      "113",
+      "114",
+      "99"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 11,
+    "active": true
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "question": "Which Sura mention the story of Heifer?",
+    "options": [
+      "Sura 3",
+      "Sura 4",
+      "Sura 2",
+      "Sura 6"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 12,
+    "active": true
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "question": "The story of Heifer mentioned in the Sura 2 is associated with which prophet?",
+    "options": [
+      "Jesus",
+      "Moses",
+      "Solomon",
+      "David"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 2:67",
+    "source_row": 13,
+    "active": true
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "question": "What is the main theme of Sura 113 Daybreak (Al-Falaq)?",
+    "options": [
+      "Daybreak",
+      "Seeking Refuge from Evil",
+      "Quranic Laws",
+      "Charity"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 113:1-5",
+    "source_row": 14,
+    "active": true
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "question": "What is the main theme of Sura 114 People (Al-Naas)?",
+    "options": [
+      "People",
+      "Seeking Refuge from Evil",
+      "People of Al-Russ",
+      "Children of Israel"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 114:1-6",
+    "source_row": 15,
+    "active": true
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "question": "Who is the only one we should ask help from?",
+    "options": [
+      "Angels",
+      "Jinns",
+      "GOD",
+      "Prophets"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 1:5",
+    "source_row": 16,
+    "active": true
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "question": "Who is the only one we should worship?",
+    "options": [
+      "Saints",
+      "Messengers",
+      "Angels",
+      "GOD"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 1:5",
+    "source_row": 17,
+    "active": true
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "question": "Who is the master of the Day of Judgement?",
+    "options": [
+      "Prophets",
+      "Messengers",
+      "GOD",
+      "Angels"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 1:4",
+    "source_row": 18,
+    "active": true
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "question": "Who is the Lord of the Universe?",
+    "options": [
+      "Gabriel",
+      "GOD",
+      "Muhammed",
+      "Jesus"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 1:2",
+    "source_row": 19,
+    "active": true
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "question": "To whom belongs all praise?",
+    "options": [
+      "Muhammed",
+      "GOD",
+      "Religious Leaders",
+      "Angels"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 45:36",
+    "source_row": 20,
+    "active": true
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "question": "Who is the Mother of Jesus?",
+    "options": [
+      "Sheba",
+      "Amram",
+      "Mary",
+      "Joseph"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 2:87",
+    "source_row": 21,
+    "active": true
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "question": "Who is the light of the heavens and the earth?",
+    "options": [
+      "Angels",
+      "GOD",
+      "Gabriel",
+      "Muhammed"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 24:35",
+    "source_row": 22,
+    "active": true
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "question": "The Quran is a healing for _____",
+    "options": [
+      "Disbelievers",
+      "Hypocrites",
+      "Believers",
+      "Wicked"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 41:44",
+    "source_row": 24,
+    "active": true
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "question": "The Quran guides us to _____",
+    "options": [
+      "Poverty",
+      "Wickedness",
+      "The best path",
+      "Retribution"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 17:9",
+    "source_row": 25,
+    "active": true
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "question": "The fate of every human being is recorded and it is tied to_____",
+    "options": [
+      "His Legs",
+      "His Hands",
+      "His Neck",
+      "His Forehead"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 17:13",
+    "source_row": 26,
+    "active": true
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "question": "In Surah 17 Verse 11, GOD teaches us that the human being often prays for something that may hurt him, thinking that _____",
+    "options": [
+      "All hope is lost",
+      "He is praying for something good",
+      "GOD will never forgive him",
+      "He is a wicked person"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 17:11",
+    "source_row": 27,
+    "active": true
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "question": "Which sura teaches us that \"GOD is the light of the heavens and the earth\".",
+    "options": [
+      "Sura 91: The Sun (Al-Shams)",
+      "Sura 35: Initiator (Fãter)",
+      "Sura 89: Dawn (Al-Fajr)",
+      "Sura 24: Light (Al-Noor)"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 24:35",
+    "source_row": 33,
+    "active": true
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "question": "In the Hereafter, the garments of the guilty will be made of ____",
+    "options": [
+      "Silk",
+      "Aged Clay",
+      "Lowly liquid",
+      "Tar"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 14:48-50",
+    "source_row": 35,
+    "active": true
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "question": "Which community was commiting homosexulality?",
+    "options": [
+      "The people of Noah",
+      "The people of Midyan",
+      "The people of Lot",
+      "Children of Israel"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 7:80-81",
+    "source_row": 40,
+    "active": true
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "question": "What did Shuaib say to the people of Midyan?",
+    "options": [
+      "Give full measure when you trade",
+      "Do not cheat the people out of their rights",
+      "Worship GOD",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 7:85",
+    "source_row": 41,
+    "active": true
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "question": "What did Shuaib say to the people of Midyan?",
+    "options": [
+      "Do not commit Homosexuality",
+      "Do not cheat the people out of their rights",
+      "Give double the measure when you trade",
+      "Give half the measure when you trade"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 7:85",
+    "source_row": 42,
+    "active": true
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "question": "What was the proof given by GOD to Saleh?",
+    "options": [
+      "His staff turned in to a serpant",
+      "Camel",
+      "He healed the blind and  leprous",
+      "Quran"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 7:73",
+    "source_row": 43,
+    "active": true
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "question": "Who miraculously spoke as a baby?",
+    "options": [
+      "John",
+      "David",
+      "Solomon",
+      "Jesus"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 19:27-34",
+    "source_row": 44,
+    "active": true
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "question": "According to Sura 3 Verse 49, who restored vision to the blind and healed the leprous?",
+    "options": [
+      "Mary",
+      "Joseph",
+      "John",
+      "GOD"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 3:49",
+    "source_row": 45,
+    "active": true
+  },
+  {
+    "id": 33,
+    "type": "mcq",
+    "question": "In Surah 3 Verse 51, who says this statement \"GOD is my Lord and your Lord\"",
+    "options": [
+      "Pharaoh",
+      "Jesus",
+      "Samarian",
+      "Qaroon"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 3:50-52",
+    "source_row": 47,
+    "active": true
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "question": "GOD narrates the most accurate history through_____?",
+    "options": [
+      "Religious Leaders",
+      "Hadith",
+      "Poetry",
+      "Quran"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 12:3",
+    "source_row": 49,
+    "active": true
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "question": "Who had a dream about eleven planets, and the sun, and the moon prostrating before him?",
+    "options": [
+      "Jacob",
+      "Joseph's brothers",
+      "Joseph",
+      "Isaac"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 12:4-5",
+    "source_row": 50,
+    "active": true
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "question": "GOD taught the interpretation of dreams to which Prophet?",
+    "options": [
+      "Aaron",
+      "Jesus",
+      "Joseph",
+      "Abraham"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 12:17",
+    "source_row": 51,
+    "active": true
+  },
+  {
+    "id": 37,
+    "type": "mcq",
+    "question": "GOD diverted evil and sin away from Joseph because _____?",
+    "options": [
+      "He was poor",
+      "He was Jacob's son",
+      "He was one of the devoted servants",
+      "He was a slave of the Governor"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 12:21-24",
+    "source_row": 53,
+    "active": true
+  },
+  {
+    "id": 38,
+    "type": "mcq",
+    "question": "In prison, who caused Joseph to forget his Lord?",
+    "options": [
+      "His Prison Mates",
+      "The King's Messenger",
+      "The Governor",
+      "The Devil"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 12:42",
+    "source_row": 54,
+    "active": true
+  },
+  {
+    "id": 39,
+    "type": "mcq",
+    "question": "In Sura 12, who did not have the knowledge to interpret the dreams?",
+    "options": [
+      "Joseph's prison mates",
+      "The King",
+      "King's elders",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 12:43-45",
+    "source_row": 55,
+    "active": true
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الرحمن\" (Ar-Rahmaan) mean?",
+    "options": [
+      "GOD is Creator",
+      "GOD is King",
+      "GOD is Most Gracious",
+      "GOD is Judge"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 1:1",
+    "source_row": 56,
+    "active": true
+  },
+  {
+    "id": 41,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الرحيم\" (Ar-Raheem) mean?",
+    "options": [
+      "GOD is Protector",
+      "GOD is All-Knowing",
+      "GOD is Most Merciful",
+      "GOD is Sustainer"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 1:1",
+    "source_row": 57,
+    "active": true
+  },
+  {
+    "id": 42,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"الملك\" (Al-Malik) mean?",
+    "options": [
+      "GOD is Forgiver",
+      "GOD is King",
+      "GOD is Gatherer",
+      "GOD is Witness"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 59:23",
+    "source_row": 58,
+    "active": true
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"السلام\" (As-Salaam) mean?",
+    "options": [
+      "GOD is Provider",
+      "GOD is Peace",
+      "GOD is Powerful",
+      "GOD is Avenger"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 59:23",
+    "source_row": 59,
+    "active": true
+  },
+  {
+    "id": 44,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"الغفار\" (Al-Ghaffar) mean?",
+    "options": [
+      "GOD is Forgiver",
+      "GOD is Self-Subsisting",
+      "GOD is Exalter",
+      "GOD is The Everlasting"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 2:173",
+    "source_row": 60,
+    "active": true
+  },
+  {
+    "id": 45,
+    "type": "mcq",
+    "question": "Which prophet is specifically described as having been given the Gospel?",
+    "options": [
+      "Jesus",
+      "Moses",
+      "David",
+      "Solomon"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 5:46",
+    "source_row": 61,
+    "active": true
+  },
+  {
+    "id": 46,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الأحد\" (Al-Ahad) mean?",
+    "options": [
+      "GOD is The One",
+      "GOD is Reckoner",
+      "GOD is Withholder",
+      "GOD is All-Powerful"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 112:1",
+    "source_row": 62,
+    "active": true
+  },
+  {
+    "id": 47,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الواحد\" (Al-Waahid) mean?",
+    "options": [
+      "GOD is The One",
+      "GOD is The Gatherer",
+      "GOD is Wise",
+      "GOD is All-Hearing"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 13:16",
+    "source_row": 63,
+    "active": true
+  },
+  {
+    "id": 48,
+    "type": "mcq",
+    "question": "According to Sura 5:69, which of these people will have nothing to fear nor will they grieve?",
+    "options": [
+      "Those who believe in the hereafter",
+      "Those who believe in GOD",
+      "Those who lead a righteous life",
+      "Those who satisfy all of the above"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 5:69",
+    "source_row": 64,
+    "active": true
+  },
+  {
+    "id": 49,
+    "type": "mcq",
+    "question": "Which prophet's story involves a serpent?",
+    "options": [
+      "Moses",
+      "Jesus",
+      "Saleh",
+      "Muhammad"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 20:19-20",
+    "source_row": 65,
+    "active": true
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "question": "All He needs to do to carry out any command is say to it  \"_______\" and it is.",
+    "options": [
+      "Be",
+      "Okay",
+      "There",
+      "GOD is The One"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 36:82",
+    "source_row": 66,
+    "active": true
+  },
+  {
+    "id": 51,
+    "type": "mcq",
+    "question": "What is the general response of the disbelievers to a messenger",
+    "options": [
+      "They called him Magician",
+      "They accepted him gracefully",
+      "They appreciated his efforts",
+      "They started worshipping God"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 51:52",
+    "source_row": 67,
+    "active": true
+  },
+  {
+    "id": 52,
+    "type": "mcq",
+    "question": "What does the name of GOD \"النور\" (An-Noor) mean?",
+    "options": [
+      "GOD is The First",
+      "GOD is The Light",
+      "GOD is Forbearing",
+      "GOD is Trustee"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 24:35",
+    "source_row": 68,
+    "active": true
+  },
+  {
+    "id": 53,
+    "type": "mcq",
+    "question": "Say, \"He is the one who initiated you and granted you the _________",
+    "options": [
+      "hearing",
+      "the eyes",
+      "the brains",
+      "all of the above"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 67:23",
+    "source_row": 69,
+    "active": true
+  },
+  {
+    "id": 54,
+    "type": "mcq",
+    "question": "Oh you who believe, when you observe the Contact Prayers (Salat) you shall ______ ...",
+    "options": [
+      "wipe your heads",
+      "wash your ears",
+      "sniff water into your nose",
+      "rinse your mouth"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 5:6",
+    "source_row": 70,
+    "active": true
+  },
+  {
+    "id": 55,
+    "type": "mcq",
+    "question": "To _______ we sent their brother Hud.",
+    "options": [
+      "Ad",
+      "Midyan",
+      "Thamud",
+      "Pharaoh"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 11:50",
+    "source_row": 71,
+    "active": true
+  },
+  {
+    "id": 56,
+    "type": "mcq",
+    "question": "Who receives recompense from their Lord ?",
+    "options": [
+      "Only Jews",
+      "Only Christians",
+      "Anyone who leads a righteous life and believes in God and the Last Day",
+      "Only Muslims"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 2:62",
+    "source_row": 72,
+    "active": true
+  },
+  {
+    "id": 57,
+    "type": "mcq",
+    "question": "What is the first commandment emphasized across all scriptures from GOD?",
+    "options": [
+      "Love thy neighbor",
+      "Thou shalt not kill",
+      "Fast during Ramadan",
+      "Worship God ALONE"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 3:18",
+    "source_row": 73,
+    "active": true
+  },
+  {
+    "id": 58,
+    "type": "mcq",
+    "question": "What led Satan to refuse to prostrate before Adam?",
+    "options": [
+      "Arrogance",
+      "Kindness",
+      "Fear",
+      "Humility"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 2:34",
+    "source_row": 74,
+    "active": true
+  },
+  {
+    "id": 59,
+    "type": "mcq",
+    "question": "Who duped Adam and Eve, and caused their eviction from paradise?",
+    "options": [
+      "A Snake",
+      "Gabriel",
+      "The Devil",
+      "The forbbiden tree"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 2:35-36",
+    "source_row": 75,
+    "active": true
+  },
+  {
+    "id": 60,
+    "type": "mcq",
+    "question": "What happens to Adam and Eve after eating from the forbidden tree?",
+    "options": [
+      "They become rich",
+      "They become angels",
+      "They become prophets",
+      "They are evicted from Paradise"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 2:35-36",
+    "source_row": 76,
+    "active": true
+  },
+  {
+    "id": 61,
+    "type": "mcq",
+    "question": "What caused the feud in the High Society?",
+    "options": [
+      "Creation of angels",
+      "Satan’s opposition",
+      "Earthly wars",
+      "Revelation of scriptures"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 38:69-74",
+    "source_row": 77,
+    "active": true
+  },
+  {
+    "id": 62,
+    "type": "mcq",
+    "question": "What covers the Virtuous in paradise?",
+    "options": [
+      "Guilt",
+      "Diamonds",
+      "Snow",
+      "Shade"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 74:14",
+    "source_row": 78,
+    "active": true
+  },
+  {
+    "id": 63,
+    "type": "mcq",
+    "question": "Who does GOD admit into his mercy?",
+    "options": [
+      "Rich",
+      "Whomever he wills",
+      "Poor",
+      "Powerful"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 76:31",
+    "source_row": 79,
+    "active": true
+  },
+  {
+    "id": 64,
+    "type": "mcq",
+    "question": "According to Sura 10 Verse 22, when people are in danger at sea, what do they do?",
+    "options": [
+      "They pray to many gods together",
+      "They call on GOD alone with sincere prayers",
+      "They give up hope and stop praying",
+      "They promise offerings to idols"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 10:22",
+    "source_row": 80,
+    "active": true
+  },
+  {
+    "id": 65,
+    "type": "mcq",
+    "question": "When wrongdoers see the punishment, what will they wish to do?",
+    "options": [
+      "Hide from everyone",
+      "Offer all they own as ransom for safety",
+      "Wake up from the nightmare",
+      "Donate half of their wealth to charity"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 10:54",
+    "source_row": 81,
+    "active": true
+  },
+  {
+    "id": 66,
+    "type": "mcq",
+    "question": "When God’s revelations are read to  people, what is their response?",
+    "options": [
+      "Bring a Quran other than this",
+      "Tales from the past",
+      "Which of us is more prosperous?",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 10:15",
+    "source_row": 82,
+    "active": true
+  },
+  {
+    "id": 67,
+    "type": "mcq",
+    "question": "What warning does GOD give about human wrongdoing?",
+    "options": [
+      "It affects future generations only",
+      "It harms their own souls",
+      "It has no real consequence",
+      "It can always be erased by wealth"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 10:23",
+    "source_row": 83,
+    "active": true
+  },
+  {
+    "id": 68,
+    "type": "mcq",
+    "question": "When drowning became a reality for Pharoah, what did he say?",
+    "options": [
+      "Save me, O my people!",
+      "I believe there is no god except the ONE in whom the Children of Israel have believed.",
+      "I will never believe!",
+      "I was betrayed by my magicians."
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 10:90",
+    "source_row": 84,
+    "active": true
+  },
+  {
+    "id": 69,
+    "type": "mcq",
+    "question": "What would happen, if GOD hastened the retribution incurred by the people, the way they demand provisions?",
+    "options": [
+      "They would have been annihilated long ago",
+      "They would have become Jinns",
+      "They would have become Angels",
+      "Their sins would have been forgiven"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 10:11",
+    "source_row": 85,
+    "active": true
+  },
+  {
+    "id": 70,
+    "type": "mcq",
+    "question": "What happens to those who do not believe in meeting GOD?",
+    "options": [
+      "They are told to enter Paradise",
+      "They are left to wander blindly in their wrongdoing",
+      "They are forgiven easily",
+      "They see angels in dreams"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 10:11",
+    "source_row": 86,
+    "active": true
+  },
+  {
+    "id": 71,
+    "type": "mcq",
+    "question": "GOD desinged the phases of the moon for ______?",
+    "options": [
+      "Light only",
+      "People as a timing device",
+      "Aesthetic purposes only",
+      "People to predict future events"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 10:5",
+    "source_row": 87,
+    "active": true
+  },
+  {
+    "id": 72,
+    "type": "mcq",
+    "question": "What provides healing for anything that troubles our hearts ?",
+    "options": [
+      "Money",
+      "Fame",
+      "Partying",
+      "Quran"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 10:57",
+    "source_row": 88,
+    "active": true
+  },
+  {
+    "id": 73,
+    "type": "mcq",
+    "question": "What did GOD say would be done with Pharaoh’s body?",
+    "options": [
+      "It would vanish in the sea",
+      "It would be preserved as a sign for later generations",
+      "It would be buried secretly",
+      "It would be destroyed by fire"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 10:92",
+    "source_row": 89,
+    "active": true
+  },
+  {
+    "id": 74,
+    "type": "mcq",
+    "question": "What do most people follow instead of truth?",
+    "options": [
+      "Their prophets",
+      "Conjecture and assumptions",
+      "Angels’ words",
+      "Wisdom from the previous scriptures"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 10:36",
+    "source_row": 90,
+    "active": true
+  },
+  {
+    "id": 75,
+    "type": "mcq",
+    "question": "What is said to the transgressors when punishment comes upon them on the day of resurection?",
+    "options": [
+      "It is temporary",
+      "There is still time to repent.",
+      "The angels will save you.",
+      "Taste the eternal retribution"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 10:52",
+    "source_row": 91,
+    "active": true
+  },
+  {
+    "id": 76,
+    "type": "mcq",
+    "question": "What is the reward for those who do good deeds?",
+    "options": [
+      "Gifts of Gold and Silver on Earth",
+      "One time forgiveness",
+      "Protection from shame and deprivation",
+      "Long life span"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 10:26",
+    "source_row": 92,
+    "active": true
+  },
+  {
+    "id": 77,
+    "type": "mcq",
+    "question": "Who guides to the truth?",
+    "options": [
+      "The Scholars",
+      "The Angels",
+      "GOD",
+      "Prophet's family members"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 10:35",
+    "source_row": 93,
+    "active": true
+  },
+  {
+    "id": 78,
+    "type": "mcq",
+    "question": "What unchangeable rule does God mention about His messengers?",
+    "options": [
+      "They never face hardship",
+      "GOD ultimately saves His messengers",
+      "They have supernatural powers",
+      "They do not die"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 10:103",
+    "source_row": 94,
+    "active": true
+  },
+  {
+    "id": 79,
+    "type": "mcq",
+    "question": "Who controls life and death, and to whom will all return?",
+    "options": [
+      "Prophets",
+      "Angels",
+      "Righteous people",
+      "GOD"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 10:55-56",
+    "source_row": 95,
+    "active": true
+  },
+  {
+    "id": 80,
+    "type": "mcq",
+    "question": "When the disbelieving leaders challenged Noah, what was his reponse?",
+    "options": [
+      "O my people, what if I dismiss those who believed?",
+      "O my people, what if I have a solid proof from my Lord?",
+      "O my people, what if I can guarantee wordly success?",
+      "O my people, what if I have revive the dead?"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 11:27",
+    "source_row": 96,
+    "active": true
+  },
+  {
+    "id": 81,
+    "type": "mcq",
+    "question": "Who makes the human being rich or poor?",
+    "options": [
+      "Government",
+      "Job",
+      "GOD",
+      "Family"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 17:30",
+    "source_row": 97,
+    "active": true
+  },
+  {
+    "id": 82,
+    "type": "mcq",
+    "question": "According to Sura 2:178, what is the 'law' decreed for dealing with murder?",
+    "options": [
+      "Equivalence, with an option of pardoning by Victim's Kin",
+      "Mandatory execution to ensure justice",
+      "Exile from the community for a period of seven years",
+      "Cutting of hands and legs on alternate sides"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 2:178",
+    "source_row": 98,
+    "active": true
+  },
+  {
+    "id": 83,
+    "type": "mcq",
+    "question": "What would have been the consequence if the Prophet had inclined to the disbelievers?",
+    "options": [
+      "A Strict Warning",
+      "Protection from disbelievers",
+      "Double the retribution",
+      "Forgiveness and redemption"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 17:74-75",
+    "source_row": 99,
+    "active": true
+  },
+  {
+    "id": 84,
+    "type": "mcq",
+    "question": "Why do those who possess knowledge from the previous scriptures fall down on their chins,  when Quran is recited to them ?",
+    "options": [
+      "Because they reject it",
+      "Because they claim that they can produce the same revelations",
+      "Because their forefathers did the same",
+      "Because it augments their reverence"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 17:107-109",
+    "source_row": 101,
+    "active": true
+  },
+  {
+    "id": 85,
+    "type": "mcq",
+    "question": "Which of these is described in the Quran as the greatest triumph?",
+    "options": [
+      "Barely missing hell",
+      "Winning battles against disbelievers",
+      "Being granted honor and status among people",
+      "Having a great health"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 3:185",
+    "source_row": 102,
+    "active": true
+  },
+  {
+    "id": 86,
+    "type": "mcq",
+    "question": "Which of these is a reason why GOD requites the hypocrite men and women?",
+    "options": [
+      "Because they have harbored evil thoughts about GOD",
+      "Because they did not observe complete days of fasting",
+      "Because they  questioned matters they did not fully understand",
+      "Because they preferred private charities"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 48:6",
+    "source_row": 103,
+    "active": true
+  },
+  {
+    "id": 87,
+    "type": "mcq",
+    "question": "When GOD sent a spirit to Mary, in what form was the spirit?",
+    "options": [
+      "The form of a Human Being",
+      "The form of an Angel",
+      "The form of an animal",
+      "The form of a Bird"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 19:17",
+    "source_row": 104,
+    "active": true
+  },
+  {
+    "id": 88,
+    "type": "mcq",
+    "question": "According to Sura 19 Verse 36, what did Jesus proclaim?",
+    "options": [
+      "I am the son of GOD",
+      "I am her to abolish previous scriptures",
+      "I am the King of Israel",
+      "GOD is my Lord and your Lord"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 19:36",
+    "source_row": 106,
+    "active": true
+  },
+  {
+    "id": 89,
+    "type": "mcq",
+    "question": "In which language was the Quran revealed?",
+    "options": [
+      "Hebrew",
+      "English",
+      "Arabic",
+      "Aramaic"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 12:2",
+    "source_row": 107,
+    "active": true
+  },
+  {
+    "id": 90,
+    "type": "mcq",
+    "question": "Which Surah does not begin with \"Bismillah\"?",
+    "options": [
+      "Sura 1",
+      "Sura 9",
+      "Sura 36",
+      "Sura 114"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 108,
+    "active": true
+  },
+  {
+    "id": 91,
+    "type": "mcq",
+    "question": "Why do those who harbour doubts in their hearts pursue multiple-meaning verses?",
+    "options": [
+      "To create confusion",
+      "To understand the meaning of verses",
+      "To answer Disbelievers' questions",
+      "To remove doubts from their hearts"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 3:7",
+    "source_row": 109,
+    "active": true
+  },
+  {
+    "id": 92,
+    "type": "mcq",
+    "question": "Who will pursue multiple-meaning verses to create confusion?",
+    "options": [
+      "Those who harbor doubts in their hearts",
+      "Curious students of the Quran",
+      "Prophets and Messengers",
+      "Those seeking deeper spiritual understanding"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 3:7",
+    "source_row": 110,
+    "active": true
+  },
+  {
+    "id": 93,
+    "type": "mcq",
+    "question": "Who knows the true meaning of multiple-meaning verses?",
+    "options": [
+      "GOD and those well founded in knowledge",
+      "GOD and Philosophers",
+      "GOD and people of the scripture",
+      "GOD and those who memorize the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 3:7",
+    "source_row": 111,
+    "active": true
+  },
+  {
+    "id": 94,
+    "type": "mcq",
+    "question": "How is “The best community ever raised among the people\" described in the Quran?",
+    "options": [
+      "They advocate righteousness and forbid evil",
+      "They memorize the Quran",
+      "They follow the Children of Israel",
+      "They follow all religious leaders"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 3:110",
+    "source_row": 112,
+    "active": true
+  },
+  {
+    "id": 95,
+    "type": "mcq",
+    "question": "Which number is central to the mathematical miracle of the Quran?",
+    "options": [
+      "19",
+      "7",
+      "14",
+      "40"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 74:30",
+    "source_row": 113,
+    "active": true
+  },
+  {
+    "id": 96,
+    "type": "mcq",
+    "question": "In Sura 1:1, how many Arabic letters make up the opening statement \"In the name of God, Most Gracious, Most Merciful\"?",
+    "options": [
+      "19",
+      "20",
+      "21",
+      "22"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 1:1",
+    "source_row": 114,
+    "active": true
+  },
+  {
+    "id": 97,
+    "type": "mcq",
+    "question": "In the story of Moses and the Children of Israel, what did they worship during Moses's absence for forty nights?.",
+    "options": [
+      "Statue of Golden calf",
+      "Stone idols",
+      "Fire",
+      "Sun"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 2:51",
+    "source_row": 115,
+    "active": true
+  },
+  {
+    "id": 98,
+    "type": "mcq",
+    "question": "What did Abraham say when his Lord commanded him to \"Submit\"",
+    "options": [
+      "I submit to the Lord of the universe",
+      "I will try my best",
+      "I need time to consider",
+      "Show me a sign"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 2:130-131",
+    "source_row": 116,
+    "active": true
+  },
+  {
+    "id": 99,
+    "type": "mcq",
+    "question": "How is GOD described in the Quran?",
+    "options": [
+      "Absolute one",
+      "Trinity",
+      "Constantly changing",
+      "Human form"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 112:1",
+    "source_row": 117,
+    "active": true
+  },
+  {
+    "id": 100,
+    "type": "mcq",
+    "question": "Which of these food is prohibited in the Quran?",
+    "options": [
+      "Running blood",
+      "Fish",
+      "Wheat",
+      "Milk"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 6:145",
+    "source_row": 118,
+    "active": true
+  },
+  {
+    "id": 101,
+    "type": "mcq",
+    "question": "Which is a characteristic of GOD?",
+    "options": [
+      "He is the Living, the Eternal",
+      "He needs sleep",
+      "He feels hunger",
+      "He grows old"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 2:255",
+    "source_row": 119,
+    "active": true
+  },
+  {
+    "id": 102,
+    "type": "mcq",
+    "question": "What is forbidden in Quran?",
+    "options": [
+      "Bribery",
+      "Greeting strangers",
+      "Eating food with left hand",
+      "Cutting nails on a Friday"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 2:188",
+    "source_row": 120,
+    "active": true
+  },
+  {
+    "id": 103,
+    "type": "mcq",
+    "question": "Who should not be called upon besides God?",
+    "options": [
+      "Angels",
+      "Prophets",
+      "Saints",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 10:106",
+    "source_row": 121,
+    "active": true
+  },
+  {
+    "id": 104,
+    "type": "mcq",
+    "question": "What challenge does God give to those who doubt the Quran?",
+    "options": [
+      "To produce a chapter like it and call anyone besides God for help",
+      "To memorize the entire Quran",
+      "To disprove its grammar",
+      "To bring a verse from any other scripture against Quran"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 10:37-38",
+    "source_row": 122,
+    "active": true
+  },
+  {
+    "id": 105,
+    "type": "mcq",
+    "question": "Regarding dietary laws, which of the following is NOT one of the four prohibited food categories mentioned in the Quran?",
+    "options": [
+      "Alcoholic Beverages",
+      "Meat of pigs",
+      "Running Blood",
+      "Animals that die of themselves"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 6:145",
+    "source_row": 123,
+    "active": true
+  },
+  {
+    "id": 106,
+    "type": "mcq",
+    "question": "To what does God compare the life of this world for those who reflect?",
+    "options": [
+      "A strong mountain that never moves.",
+      "Water from the sky that produces plants, which then turn into dry hay.",
+      "A deep ocean with hidden treasures.",
+      "A golden palace that lasts forever"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 18:45",
+    "source_row": 124,
+    "active": true
+  },
+  {
+    "id": 107,
+    "type": "mcq",
+    "question": "Why is it impossible for the Quran to be authored by anyone other than God?",
+    "options": [
+      "Because it is written in a very old language",
+      "Because it is fully detailed, infallible and confirms all previous messages.",
+      "Because it was hidden in a cave for many years",
+      "Because it contains many stories of kings."
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 10:37",
+    "source_row": 125,
+    "active": true
+  },
+  {
+    "id": 108,
+    "type": "mcq",
+    "question": "According Sura 2 what was the purpose of temporarily changing the direction of Qibla?",
+    "options": [
+      "To distinguish true followers of the messenger from those who would turn back",
+      "To establish a permanent new religious identity separate from previous prophets",
+      "To align with the practices of the People of the scripture",
+      "To make it easy for the believers"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 2:143",
+    "source_row": 126,
+    "active": true
+  },
+  {
+    "id": 109,
+    "type": "mcq",
+    "question": "What is the name of the First Sura in the Quran?",
+    "options": [
+      "The Heifer (Al-Baqarah)",
+      "The Key (Al-Fãtehah)",
+      "Women (Al-Nesã’)",
+      "Y.S. (YãSîn)"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 127,
+    "active": true
+  },
+  {
+    "id": 110,
+    "type": "mcq",
+    "question": "Who did not fall prostrate before Adam when asked to do so?",
+    "options": [
+      "A group of Angels",
+      "Satan",
+      "A group of Jinns",
+      "The chief angel Gabriel"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 2:34",
+    "source_row": 128,
+    "active": true
+  },
+  {
+    "id": 111,
+    "type": "mcq",
+    "question": "Which of these is one of the largest ancient empire and the title of a Sura ?",
+    "options": [
+      "Sura 3: The Amramites (Ãli-‘Imrãn)",
+      "Sura 46: The Dunes (Al-Ahqãf)",
+      "Sura 30: Romans (Al-Room)",
+      "None of the above"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 130,
+    "active": true
+  },
+  {
+    "id": 112,
+    "type": "mcq",
+    "question": "Why did Pharoah instruct Haman to build a tower?",
+    "options": [
+      "To create a defensive structure against invading armies",
+      "To establish a monument celebrating his kingdom",
+      "To reach the heavens and verify the existence of the God of Moses",
+      "To observe the stars and practice astrology"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 28:38",
+    "source_row": 131,
+    "active": true
+  },
+  {
+    "id": 113,
+    "type": "mcq",
+    "question": "What is the criteria described in Sura 39:45 regarding the hearts of those who truly believe in the Hereafter?",
+    "options": [
+      "They are satisfied when GOD alone is mentioned",
+      "They rejoice only when Prophet Muhammed is mentioned beside GOD",
+      "Their hearts shrink with aversion when GOD alone is mentioned",
+      "They don’t care who is mentioned during worship"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 39:45",
+    "source_row": 132,
+    "active": true
+  },
+  {
+    "id": 114,
+    "type": "mcq",
+    "question": "According to Sura 2 Verse 177, which of these is a part of Righteousness?",
+    "options": [
+      "Giving money cheerfully to the relatives, orphans and the needy",
+      "Steadfastly persevering in the face of persecution, hardship, and war.",
+      "Observing the Contact Prayers (Salat) and giving the obligatory charity (Zakat)",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 2:177",
+    "source_row": 133,
+    "active": true
+  },
+  {
+    "id": 115,
+    "type": "mcq",
+    "question": "Which of these is a common human trait that can lead a person astray?",
+    "options": [
+      "Devoting time in the study of previous scriptures",
+      "Participating in business and trade on a Friday",
+      "Taking one's own ego as god",
+      "Spending time on understanding the science behind the creation of heaven and earth"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 45:23",
+    "source_row": 134,
+    "active": true
+  },
+  {
+    "id": 116,
+    "type": "mcq",
+    "question": "How do worshipers of the Most Gracious respond when reminded of their Lord's revelations?",
+    "options": [
+      "They accept the revelations only after consulting their leaders",
+      "They memorize every revelation without reflecting on its meaning",
+      "They demand additional miracles before accepting the message",
+      "They never react to them as if they were deaf and blind"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 25:73",
+    "source_row": 135,
+    "active": true
+  },
+  {
+    "id": 117,
+    "type": "mcq",
+    "question": "People used to be one congregation, but then they disputed. Why did GOD not judge them regarding their disputes immediately?",
+    "options": [
+      "Because He was waiting for more people to join",
+      "Because of a predetermined word from GOD",
+      "Because the disputes were not important",
+      "Because they did not ask for a judgment"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 10:19",
+    "source_row": 136,
+    "active": true
+  },
+  {
+    "id": 118,
+    "type": "mcq",
+    "question": "The transgressing people mentioned in Sura 10 Verse 23 are _____  this worldy life",
+    "options": [
+      "Proud about",
+      "Grateful about",
+      "Not concerend about",
+      "Preoccupied with"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 10:23",
+    "source_row": 137,
+    "active": true
+  },
+  {
+    "id": 119,
+    "type": "mcq",
+    "question": "According to Sura 10 Verse 31, when the disbelievers are asked who produces the dead from the living and who is in control of all things, they answer ______",
+    "options": [
+      "Our idols do",
+      "We do not know",
+      "The Nature Does",
+      "GOD"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 10:31",
+    "source_row": 138,
+    "active": true
+  },
+  {
+    "id": 120,
+    "type": "mcq",
+    "question": "When clear revelations are recited to those who do not expect to meet GOD, what do they demand ?",
+    "options": [
+      "They ask for the Quran to be translated into other languages.",
+      "They ask for a Quran other than this",
+      "They ask for a revelation similar to Torah",
+      "They ask for more time to consider the message."
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 10:15",
+    "source_row": 139,
+    "active": true
+  },
+  {
+    "id": 121,
+    "type": "mcq",
+    "question": "Which of these statements is true?",
+    "options": [
+      "A Prophet can change the scripture revealed by GOD to help people understand it easily",
+      "A Prophet can reveal his own words as a scripture to guide people",
+      "A Prophet has no say in the contents of the scripture and he simply follows it",
+      "A prophet decides whether or not to share the scripture revealed by God with the people."
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 10:15",
+    "source_row": 140,
+    "active": true
+  },
+  {
+    "id": 122,
+    "type": "mcq",
+    "question": "According to Sura 10 Verse 57, What has come to mankind from their Lord, through the Quran?",
+    "options": [
+      "A book of stories and historical accounts of past kingdoms",
+      "Strict laws and difficult burdens to test their physical strength",
+      "A Guide to interact with the Jinn beings",
+      "Englightenment and healing for anything that troubles the hearts"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 10:57",
+    "source_row": 141,
+    "active": true
+  },
+  {
+    "id": 123,
+    "type": "mcq",
+    "question": "According to Sura 10 Verse 7 & 8, who has incurred Hell as their ultimate abode, as a consequence of their own works",
+    "options": [
+      "Those who are not expecting to meet GOD",
+      "Those who are preoccupied with this worldly life and are content with it",
+      "Those who refuse to heed GOD's proofs",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 10:7-8",
+    "source_row": 142,
+    "active": true
+  },
+  {
+    "id": 124,
+    "type": "mcq",
+    "question": "Which of these statements is true?",
+    "options": [
+      "On the day of resurrection, the transgressors are requited precisely for what they have earned.",
+      "On the day of resurrection, the transgressors are requited for their sins and their ancestor's sins",
+      "On the day of resurrection, the transgressors punishment will be reduced based on the wealth they have earned on Earth",
+      "On the day of resurrection, the transgressors are not punished if they submit to Prophet Muhammed's absolute authority"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 10:52",
+    "source_row": 143,
+    "active": true
+  },
+  {
+    "id": 125,
+    "type": "mcq",
+    "question": "What is far better than any wealth people can accumulate on Earth?",
+    "options": [
+      "Prophet's blessing",
+      "GOD's grace and Mercy",
+      "A long life filled with prosperity",
+      "Great knowledge and worldly success"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 10:58",
+    "source_row": 144,
+    "active": true
+  },
+  {
+    "id": 126,
+    "type": "mcq",
+    "question": "According to Sura 34 Verse 13, how many of GOD's servants are appreciative?",
+    "options": [
+      "Only a few",
+      "The Majority",
+      "None of them",
+      "All of them"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 34:13",
+    "source_row": 145,
+    "active": true
+  },
+  {
+    "id": 127,
+    "type": "mcq",
+    "question": "According to  Sura 35 Verse 33, what will the garments of those who enter the gardens of Eden be made of?",
+    "options": [
+      "Linen",
+      "Wool",
+      "Cotton",
+      "Silk"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 35:33",
+    "source_row": 146,
+    "active": true
+  },
+  {
+    "id": 128,
+    "type": "mcq",
+    "question": "According to  Sura 74 Verse 31, who are appointed as the guardians of Hell?",
+    "options": [
+      "Angels",
+      "Devils",
+      "Prophets",
+      "Saints"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 74:31",
+    "source_row": 147,
+    "active": true
+  },
+  {
+    "id": 129,
+    "type": "mcq",
+    "question": "What are the most honorable traits according to Luqman's advice to his son?",
+    "options": [
+      "Observing the Contact Prayers",
+      "Maintaining steadfastness in the face of adversity",
+      "Advocating righteousness and forbidding evil",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 31:17",
+    "source_row": 148,
+    "active": true
+  },
+  {
+    "id": 130,
+    "type": "mcq",
+    "question": "What did GOD design to appear in stages until it becomes like an Old curved sheath?",
+    "options": [
+      "Sun",
+      "Moon",
+      "Earth",
+      "Star"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 36:39",
+    "source_row": 149,
+    "active": true
+  },
+  {
+    "id": 131,
+    "type": "mcq",
+    "question": "On the day of Judgement, what is the destiny of those whose weights are light?",
+    "options": [
+      "They will be happily busy in Paradise",
+      "They will abide in Hell forever",
+      "They will be protected from punishment",
+      "They will be welcomed by the angels"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 23:103",
+    "source_row": 150,
+    "active": true
+  },
+  {
+    "id": 132,
+    "type": "mcq",
+    "question": "If all the trees on earth were made into pens, and the ocean supplied the ink, augmented by seven more oceans, what would not run out ?",
+    "options": [
+      "The Hadith and Sunna",
+      "The words of GOD",
+      "The schemes of the disbelievers",
+      "None of the above"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 31:27",
+    "source_row": 151,
+    "active": true
+  },
+  {
+    "id": 133,
+    "type": "mcq",
+    "question": "How will a person be judged on the Day of Ressurection?",
+    "options": [
+      "Based on their family",
+      "Equitably, without least injustice",
+      "Based on their community",
+      "Based on their Wealth on earth"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 39:69",
+    "source_row": 152,
+    "active": true
+  },
+  {
+    "id": 134,
+    "type": "mcq",
+    "question": "Which best describes sincere charity?",
+    "options": [
+      "Giving so others will praise you",
+      "Giving to gain political influence",
+      "Giving while seeking only GOD's approval",
+      "Giving only when you expect something in return"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 92:14-20",
+    "source_row": 153,
+    "active": true
+  },
+  {
+    "id": 135,
+    "type": "mcq",
+    "question": "Who will be given another oppurtunity after death to work righteousness in this world?",
+    "options": [
+      "The ones who don’t make it to heaven",
+      "The one who claim to be muslims in this world",
+      "Prophets and Messengers",
+      "No one"
+    ],
+    "correct": "D",
+    "difficulty": "easy",
+    "reference": "Sura 23:99-100",
+    "source_row": 154,
+    "active": true
+  },
+  {
+    "id": 136,
+    "type": "mcq",
+    "question": "According to Sura 18 Verse 49, what will be the response of the Guilty when their record is shown to them?",
+    "options": [
+      "Praise GOD for forgiving our sins",
+      "How come this book leaves nothing",
+      "We did not know that our deeds were being recorded.",
+      "None of the above"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 18:49",
+    "source_row": 155,
+    "active": true
+  },
+  {
+    "id": 137,
+    "type": "mcq",
+    "question": "If one commits a transgression out of ignorance, what should he do?",
+    "options": [
+      "Hide the mistake",
+      "Blame on others",
+      "Repent and Reform",
+      "Ignore the act as it is already done"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 6:54",
+    "source_row": 156,
+    "active": true
+  },
+  {
+    "id": 138,
+    "type": "mcq",
+    "question": "What did the tablets given to Moses contain?",
+    "options": [
+      "Stories of Ancient nations",
+      "List of punishments for the disbelievers",
+      "Guidance and Mercy for those who reverence their Lord",
+      "Prophecies about future kings"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 7:154",
+    "source_row": 157,
+    "active": true
+  },
+  {
+    "id": 139,
+    "type": "mcq",
+    "question": "Your Lord increases the ______ for anyone He chooses, and _______ . He is fully Cognizant of His creatures, Seer.",
+    "options": [
+      "Provisions, Reduces it",
+      "Wealth, gives happiness to the rich people",
+      "Guidance, removes it from Slaves",
+      "Knowledge, specifies it specifically for the educated people"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 17:30",
+    "source_row": 158,
+    "active": true
+  },
+  {
+    "id": 140,
+    "type": "mcq",
+    "question": "According to Sura 27 Verse 22 which bird spoke to Solomon ?",
+    "options": [
+      "Peacock",
+      "Crow",
+      "Hoopoe",
+      "Parrot"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "Sura 27:22",
+    "source_row": 160,
+    "active": true
+  },
+  {
+    "id": 141,
+    "type": "mcq",
+    "question": "What is the reason that GOD provides in Sura 7 Verse 189, for giving man a mate?",
+    "options": [
+      "To find tranquility with one another",
+      "To compete with another",
+      "To gain wealth together",
+      "To enjoy life this worldly life together"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 7:189",
+    "source_row": 161,
+    "active": true
+  },
+  {
+    "id": 142,
+    "type": "mcq",
+    "question": "According to Sura 6 Verse 151, GOD has commanded the human being to honour their ______",
+    "options": [
+      "Friends",
+      "Parents",
+      "All creatures on Earth",
+      "Heavens and the Earth"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "Sura 6:151",
+    "source_row": 162,
+    "active": true
+  },
+  {
+    "id": 143,
+    "type": "mcq",
+    "question": "When a person reaches maturity and the age of forty, his supplication regarding his children should be?",
+    "options": [
+      "Make them righteous",
+      "Make them wealthy",
+      "Give them perfect health",
+      "Make them powerful to fight disbelievers"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "Sura 46:15",
+    "source_row": 164,
+    "active": true
+  },
+  {
+    "id": 144,
+    "type": "mcq",
+    "question": "_____ was the town with tall buildings?",
+    "options": [
+      "Aad",
+      "Thamoud",
+      "Erum",
+      "Taareq"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 89:7",
+    "source_row": 172,
+    "active": true
+  },
+  {
+    "id": 145,
+    "type": "mcq",
+    "question": "What is Al-Taareq?",
+    "options": [
+      "A bright Star",
+      "A town with tall buildings",
+      "A female idol",
+      "A community"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 86:2-3",
+    "source_row": 173,
+    "active": true
+  },
+  {
+    "id": 146,
+    "type": "mcq",
+    "question": "In Sura 89:10, GOD tell us that \"_____ , who possessed the might\"",
+    "options": [
+      "Pharaoh",
+      "Qaaroon",
+      "Hamaan",
+      "Moses"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 89:10",
+    "source_row": 174,
+    "active": true
+  },
+  {
+    "id": 147,
+    "type": "mcq",
+    "question": "The Hour has come closer, and the _____ has split.",
+    "options": [
+      "Star",
+      "Sun",
+      "Earth",
+      "Moon"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 54:1",
+    "source_row": 175,
+    "active": true
+  },
+  {
+    "id": 148,
+    "type": "mcq",
+    "question": "To which community was the camel sent as a test?",
+    "options": [
+      "Thamoud",
+      "Aad",
+      "Sodom",
+      "Al Russ"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 54:23-27",
+    "source_row": 176,
+    "active": true
+  },
+  {
+    "id": 149,
+    "type": "mcq",
+    "question": "GOD created the human from  ____",
+    "options": [
+      "Pure air",
+      "Fresh Clay",
+      "Blazing Fire",
+      "Aged Clay"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 55:14",
+    "source_row": 177,
+    "active": true
+  },
+  {
+    "id": 150,
+    "type": "mcq",
+    "question": "You are not to be blamed for eating at homes of ….",
+    "options": [
+      "Your Friends",
+      "Your sisters",
+      "Your Mother's sisters",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 24:61",
+    "source_row": 178,
+    "active": true
+  },
+  {
+    "id": 151,
+    "type": "mcq",
+    "question": "Which of these is a female idol?",
+    "options": [
+      "Allaat",
+      "Al-'Uzzah.",
+      "Manaat",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 53:19",
+    "source_row": 179,
+    "active": true
+  },
+  {
+    "id": 152,
+    "type": "mcq",
+    "question": "Which community was annihilated by a persistent, violent storm that lasted for seven nights and eight days ?",
+    "options": [
+      "Sodom",
+      "Thamoud",
+      "Aad",
+      "Pharoah"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 69:6-7",
+    "source_row": 180,
+    "active": true
+  },
+  {
+    "id": 153,
+    "type": "mcq",
+    "question": "What was the reason that Abraham asked forgiveness for his father?",
+    "options": [
+      "Because he was a prophet",
+      "Because his father asked him to do so",
+      "Because his father was a believer",
+      "Because he had promised him to do so"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 9:114",
+    "source_row": 181,
+    "active": true
+  },
+  {
+    "id": 154,
+    "type": "mcq",
+    "question": "\"Fall prostrate before Adam\" this command was issued to?",
+    "options": [
+      "Satan",
+      "Humans",
+      "Eve",
+      "Angels"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 2:34",
+    "source_row": 182,
+    "active": true
+  },
+  {
+    "id": 155,
+    "type": "mcq",
+    "question": "In Sura 94 GOD teaches us that \"With pain there is ____\".",
+    "options": [
+      "Money",
+      "Suffering",
+      "Retribution",
+      "Gain"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 94:5",
+    "source_row": 183,
+    "active": true
+  },
+  {
+    "id": 156,
+    "type": "mcq",
+    "question": "Under whose gurdainship did Mary grew up?",
+    "options": [
+      "Amram",
+      "Jesus",
+      "Aaron",
+      "Zachariah"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 3:37",
+    "source_row": 184,
+    "active": true
+  },
+  {
+    "id": 157,
+    "type": "mcq",
+    "question": "Who was the father of John?",
+    "options": [
+      "Jesus",
+      "Moses",
+      "Zachariah",
+      "Amram"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 3:38-39",
+    "source_row": 186,
+    "active": true
+  },
+  {
+    "id": 158,
+    "type": "mcq",
+    "question": "GOD teaches us in Sura 105, The Elephant (Al-Feel) about _____",
+    "options": [
+      "Abraham",
+      "Creation of the Heavens and Earh",
+      "Contact Prayers (Salat)",
+      "The destruction of the people of the elephant"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 105:1-5",
+    "source_row": 187,
+    "active": true
+  },
+  {
+    "id": 159,
+    "type": "mcq",
+    "question": "How many Patriarchs did GOD raise among the chilren of Israel?",
+    "options": [
+      "11",
+      "5",
+      "19",
+      "12"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 5:12",
+    "source_row": 188,
+    "active": true
+  },
+  {
+    "id": 160,
+    "type": "mcq",
+    "question": "In Sura 17 Verse 11, GOD teaches us that the human being is ____",
+    "options": [
+      "Egoistic",
+      "Strong",
+      "Powerful",
+      "Impatient"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 17:11",
+    "source_row": 189,
+    "active": true
+  },
+  {
+    "id": 161,
+    "type": "mcq",
+    "question": "According to Sura 17 Verse 11, what does the human being often pray for?",
+    "options": [
+      "Children",
+      "Provisions",
+      "Something Luxurious",
+      "Something that may hurt him"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 17:11",
+    "source_row": 190,
+    "active": true
+  },
+  {
+    "id": 162,
+    "type": "mcq",
+    "question": "In Sura 89 Verse 27 we see that the believers are addressed as \"O ____ Soul\"",
+    "options": [
+      "Righteous",
+      "Content",
+      "Praiseworthy",
+      "Worried"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 89:27-30",
+    "source_row": 191,
+    "active": true
+  },
+  {
+    "id": 163,
+    "type": "mcq",
+    "question": "In Sura 35 Verse 28 GOD teach us that the people who truly reverence GOD are those who are _____",
+    "options": [
+      "Self worthy",
+      "Rich",
+      "Knowledgeable",
+      "Ambitious"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 35:28",
+    "source_row": 192,
+    "active": true
+  },
+  {
+    "id": 164,
+    "type": "mcq",
+    "question": "When the leaders of Thamoud asked people who believed, \"How do you know that Sãleh is sent by his Lord?\", what was their response?",
+    "options": [
+      "The camel he brought has made us believers",
+      "The gardens he own has made us believers",
+      "The offering he produced has made us believers",
+      "The message he brought has made us believers"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 7:75",
+    "source_row": 193,
+    "active": true
+  },
+  {
+    "id": 165,
+    "type": "mcq",
+    "question": "Which community was commiting Highway Robbery?",
+    "options": [
+      "Children of Israel",
+      "The people of Midyan",
+      "The people of Aad",
+      "The people of Lot"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 29:28-29",
+    "source_row": 194,
+    "active": true
+  },
+  {
+    "id": 166,
+    "type": "mcq",
+    "question": "How was the camel given to Saleh different than other camels?",
+    "options": [
+      "It was golden without a blemish",
+      "It could understand human language",
+      "It drank on a day different to the specified days of drinking",
+      "It glowed at night and guided travelers"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 26:155",
+    "source_row": 195,
+    "active": true
+  },
+  {
+    "id": 167,
+    "type": "mcq",
+    "question": "What did the people of Thamud do to the camel which was sent as a proof?",
+    "options": [
+      "They worshiped it",
+      "They slaughtered it",
+      "They let it roam freely",
+      "They honored it and took care of it"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 7:73-77",
+    "source_row": 196,
+    "active": true
+  },
+  {
+    "id": 168,
+    "type": "mcq",
+    "question": "Who prayed for a feast from the sky?",
+    "options": [
+      "Muhammed",
+      "Solomon",
+      "Jesus",
+      "David"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 5:114",
+    "source_row": 197,
+    "active": true
+  },
+  {
+    "id": 169,
+    "type": "mcq",
+    "question": "Who is Human Beings' ardent enemy?",
+    "options": [
+      "Spouse",
+      "Devil",
+      "Money",
+      "Children"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 36:30",
+    "source_row": 198,
+    "active": true
+  },
+  {
+    "id": 170,
+    "type": "mcq",
+    "question": "Who were Joseph's Ancestors?",
+    "options": [
+      "Moses and Aaron",
+      "David and Solomon",
+      "Mary and Jesus",
+      "Abraham and Isaac"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 12:4-6",
+    "source_row": 199,
+    "active": true
+  },
+  {
+    "id": 171,
+    "type": "mcq",
+    "question": "According to Joseph's Brothers' story, Jospeh was devoured by which animal?",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Wolf",
+      "Hyena"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 12:17-18",
+    "source_row": 200,
+    "active": true
+  },
+  {
+    "id": 172,
+    "type": "mcq",
+    "question": "Joseph's garment was torn from the _____?",
+    "options": [
+      "Front",
+      "Side",
+      "Back",
+      "This information is not given in the Quran"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 12:25-29",
+    "source_row": 201,
+    "active": true
+  },
+  {
+    "id": 173,
+    "type": "mcq",
+    "question": "What was the color of the dog that was with the youths that took refuge in the cave?",
+    "options": [
+      "Black",
+      "Brown",
+      "Yellow",
+      "This information is not given in the Quran"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 18:22",
+    "source_row": 202,
+    "active": true
+  },
+  {
+    "id": 174,
+    "type": "mcq",
+    "question": "How did Joseph knew that one of his prison mates was going to be a wine butler?",
+    "options": [
+      "The King's messenger informed him",
+      "The Governor informed him",
+      "From the interpretation of his prison mates' dream",
+      "From the interpretation of the Kings' dream"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 12:36-41",
+    "source_row": 204,
+    "active": true
+  },
+  {
+    "id": 175,
+    "type": "mcq",
+    "question": "In Sura 12, what does the King's dream indicate?",
+    "options": [
+      "Seven different Tribes",
+      "Seven years of prosperity",
+      "Seven years of imprisonment",
+      "Seven years of drought"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 12:43-49",
+    "source_row": 206,
+    "active": true
+  },
+  {
+    "id": 176,
+    "type": "mcq",
+    "question": "In Sura 12, what was the King's dream about?",
+    "options": [
+      "Harvest",
+      "Prison",
+      "Sun and Moon",
+      "Wine"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 12:43-49",
+    "source_row": 207,
+    "active": true
+  },
+  {
+    "id": 177,
+    "type": "mcq",
+    "question": "Why does Joseph return the goods brought by his brothers?",
+    "options": [
+      "Because of their poor quality",
+      "His father asks him to do so",
+      "So that they may come back sooner",
+      "So that they don’t come back again"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 12:59-62",
+    "source_row": 208,
+    "active": true
+  },
+  {
+    "id": 178,
+    "type": "mcq",
+    "question": "Why does Jacob ask his sons to enter Joseph's place through different doors?",
+    "options": [
+      "Because he wanted to save Joseph",
+      "Because he had a private reason to do so",
+      "Because he wanted to get more provisions",
+      "Because Joseph requested Jacob to do so"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 12:67-68",
+    "source_row": 209,
+    "active": true
+  },
+  {
+    "id": 179,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"القدوس\" (Al-Quddus) mean?",
+    "options": [
+      "GOD is Peace",
+      "GOD is Most Sacred",
+      "GOD is Judge",
+      "GOD is Light"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 59:23",
+    "source_row": 210,
+    "active": true
+  },
+  {
+    "id": 180,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"المؤمن\" (Al-Mu'min) mean?",
+    "options": [
+      "GOD is Just",
+      "GOD is Most Faithful",
+      "GOD is Humiliator",
+      "GOD is Resurrector"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 59:23",
+    "source_row": 211,
+    "active": true
+  },
+  {
+    "id": 181,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"المهيمن\" (Al-Muhaymin) mean?",
+    "options": [
+      "GOD is Supreme",
+      "GOD is All-Hearing",
+      "GOD is Most Patient",
+      "GOD is The Enricher"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 59:23",
+    "source_row": 212,
+    "active": true
+  },
+  {
+    "id": 182,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"العزيز\" (Al-Aziz) mean?",
+    "options": [
+      "GOD is Almighty",
+      "GOD is Most Merciful",
+      "GOD is Most Loving",
+      "GOD is The Preventer"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 59:23",
+    "source_row": 213,
+    "active": true
+  },
+  {
+    "id": 183,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"الجبار\" (Al-Jabbar) mean?",
+    "options": [
+      "GOD is Most Powerful",
+      "GOD is Most Gentle",
+      "GOD is Most Merciful",
+      "GOD is The Harmer"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 59:23",
+    "source_row": 214,
+    "active": true
+  },
+  {
+    "id": 184,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"المتكبر\" (Al-Mutakabbir) mean?",
+    "options": [
+      "GOD is Most Dignified",
+      "GOD is Most Generous",
+      "GOD is Most Patient",
+      "GOD is The Benefiter"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 59:23",
+    "source_row": 215,
+    "active": true
+  },
+  {
+    "id": 185,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"الخالق\" (Al-Khaliq) mean?",
+    "options": [
+      "GOD is Most Generous",
+      "GOD is Creator",
+      "GOD is Most Patient",
+      "GOD is The Light"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 59:24",
+    "source_row": 216,
+    "active": true
+  },
+  {
+    "id": 186,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"البارئ\" (Al-Bari') mean?",
+    "options": [
+      "GOD is Initiator",
+      "GOD is Giver of Death",
+      "GOD is Expander",
+      "GOD is The Guide"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 59:24",
+    "source_row": 217,
+    "active": true
+  },
+  {
+    "id": 187,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"المصور\" (Al-Musawwir) mean?",
+    "options": [
+      "GOD is The Designer",
+      "GOD is The Ever-Living",
+      "GOD is Abaser",
+      "GOD is The Incomparable"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 59:24",
+    "source_row": 218,
+    "active": true
+  },
+  {
+    "id": 188,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"القهار\" (Al-Qahhar) mean?",
+    "options": [
+      "GOD is Supreme",
+      "GOD is The Finder",
+      "GOD is Honourer",
+      "GOD is The Inheritor"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 12:39",
+    "source_row": 219,
+    "active": true
+  },
+  {
+    "id": 189,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"الوهاب\" (Al-Wahhab) mean?",
+    "options": [
+      "GOD is Grantor",
+      "GOD is The Glorious",
+      "GOD is Humiliator",
+      "GOD is The Guide to the Right Path"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 3:8",
+    "source_row": 220,
+    "active": true
+  },
+  {
+    "id": 190,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"الرزاق\" (Ar-Razzaq) mean?",
+    "options": [
+      "GOD is Provider",
+      "GOD is The One",
+      "GOD is All-Hearing",
+      "GOD is The Patient"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 5:114",
+    "source_row": 221,
+    "active": true
+  },
+  {
+    "id": 191,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"الفتاح\" (Al-Fattah) mean?",
+    "options": [
+      "GOD is Best Supporter",
+      "GOD is Peace",
+      "GOD is All-Seeing",
+      "GOD is The Beneficent"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 7:89",
+    "source_row": 222,
+    "active": true
+  },
+  {
+    "id": 192,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"العليم\" (Al-‘Aleem) mean?",
+    "options": [
+      "GOD is All-Knowing",
+      "GOD is Able",
+      "GOD is Judge",
+      "GOD is The Concealer of Faults"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 2:29",
+    "source_row": 223,
+    "active": true
+  },
+  {
+    "id": 193,
+    "type": "mcq",
+    "question": "What does the name of GOD  \"القابض\" (Al-Qaabid) mean?",
+    "options": [
+      "GOD is Withholder",
+      "GOD is All-Powerful",
+      "GOD is Just",
+      "GOD is The Healer"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 2:245",
+    "source_row": 224,
+    "active": true
+  },
+  {
+    "id": 194,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الباسط\" (Al-Baasit) mean?",
+    "options": [
+      "GOD is Creator",
+      "GOD is Majestic",
+      "GOD is Giver of Death",
+      "GOD is The Provider"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 2:245",
+    "source_row": 225,
+    "active": true
+  },
+  {
+    "id": 195,
+    "type": "mcq",
+    "question": "Which word was revealed first in the Qur'an?",
+    "options": [
+      "Bismillah (In the name of God)",
+      "Qul (Say)",
+      "Iqra (Read)",
+      "Alhamdulillah (All praise is due to God)"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 96:1",
+    "source_row": 226,
+    "active": true
+  },
+  {
+    "id": 196,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الرافع\" (Ar-Raafi’) mean?",
+    "options": [
+      "GOD is Forgiver",
+      "GOD is Watchful",
+      "GOD is Self-Subsisting",
+      "GOD is Exalter"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 58:11",
+    "source_row": 227,
+    "active": true
+  },
+  {
+    "id": 197,
+    "type": "mcq",
+    "question": "What does the name of GOD \"المعز\" (Al-Mu’izz) mean?",
+    "options": [
+      "GOD is Peace",
+      "GOD is Responsive",
+      "GOD is The Finder",
+      "GOD is Honourer"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 3:26",
+    "source_row": 228,
+    "active": true
+  },
+  {
+    "id": 198,
+    "type": "mcq",
+    "question": "What does the name of GOD \"المذل\" (Al-Mudhill) mean?",
+    "options": [
+      "GOD is Provider",
+      "GOD is All-Encompassing",
+      "GOD is The Glorious",
+      "GOD is Humiliator"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 3:26",
+    "source_row": 229,
+    "active": true
+  },
+  {
+    "id": 199,
+    "type": "mcq",
+    "question": "What does the name of GOD \"السميع\" (As-Samee’) mean?",
+    "options": [
+      "GOD is Just",
+      "GOD is Wise",
+      "GOD is The One",
+      "GOD is All-Hearing"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 2:127",
+    "source_row": 230,
+    "active": true
+  },
+  {
+    "id": 200,
+    "type": "mcq",
+    "question": "What does the name of GOD \"البصير\" (Al-Baseer) mean?",
+    "options": [
+      "GOD is Protector",
+      "GOD is Loving",
+      "GOD is The Satisfier of Needs",
+      "GOD is All-Seeing"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 42:11",
+    "source_row": 231,
+    "active": true
+  },
+  {
+    "id": 201,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الحكم\" (Al-Hakam) mean?",
+    "options": [
+      "GOD is Most Powerful",
+      "GOD is Most Glorious",
+      "GOD is Able",
+      "GOD is the Best Judge"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 7:87",
+    "source_row": 232,
+    "active": true
+  },
+  {
+    "id": 202,
+    "type": "mcq",
+    "question": "What does the name of GOD \"العدل\" (Al-‘Adl) mean?",
+    "options": [
+      "GOD is Compeller",
+      "GOD is Resurrector",
+      "GOD is All-Powerful",
+      "GOD is Just"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 16:90",
+    "source_row": 233,
+    "active": true
+  },
+  {
+    "id": 203,
+    "type": "mcq",
+    "question": "What does the name of GOD \"اللطيف\" (Al-Lateef) mean?",
+    "options": [
+      "GOD is Most Proud",
+      "GOD is Witness",
+      "GOD is The Expediter",
+      "GOD is Compassionate"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 6:103",
+    "source_row": 234,
+    "active": true
+  },
+  {
+    "id": 204,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الخبير\" (Al-Khabeer) mean?",
+    "options": [
+      "GOD is Most Generous",
+      "GOD is The Truth",
+      "GOD is The Delayer",
+      "GOD is Cognizant"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 6:103",
+    "source_row": 235,
+    "active": true
+  },
+  {
+    "id": 205,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الحليم\" (Al-Haleem) mean?",
+    "options": [
+      "GOD is Originator",
+      "GOD is Trustee",
+      "GOD is The First",
+      "GOD is Clement"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 2:225",
+    "source_row": 236,
+    "active": true
+  },
+  {
+    "id": 206,
+    "type": "mcq",
+    "question": "What does the name of GOD \"العظيم\" (Al-‘Azeem) mean?",
+    "options": [
+      "GOD is Fashioner",
+      "GOD is Strong",
+      "GOD is The Last",
+      "GOD is The Great"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 2:255",
+    "source_row": 237,
+    "active": true
+  },
+  {
+    "id": 207,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الغفور\" (Al-Ghafoor) mean?",
+    "options": [
+      "GOD is Forgiver",
+      "GOD is Firm",
+      "GOD is The Manifest",
+      "GOD is Forgiving"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 85:14",
+    "source_row": 238,
+    "active": true
+  },
+  {
+    "id": 208,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الشكور\" (Ash-Shakoor) mean?",
+    "options": [
+      "GOD is Subduer",
+      "GOD is Protector",
+      "GOD is The Hidden",
+      "GOD is Appreciative"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 35:30",
+    "source_row": 239,
+    "active": true
+  },
+  {
+    "id": 209,
+    "type": "mcq",
+    "question": "What does the name of GOD \"العلي\" (Al-‘Aliyy) mean?",
+    "options": [
+      "GOD is Bestower",
+      "GOD is Praiseworthy",
+      "GOD is The Governor",
+      "GOD is Most High"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 2:255",
+    "source_row": 240,
+    "active": true
+  },
+  {
+    "id": 210,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الكبير\" (Al-Kabeer) mean?",
+    "options": [
+      "GOD is Provider",
+      "GOD is Reckoner",
+      "GOD is The Most Exalted",
+      "GOD is Supreme"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 13:9",
+    "source_row": 241,
+    "active": true
+  },
+  {
+    "id": 211,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الحفيظ\" (Al-Hafeez) mean?",
+    "options": [
+      "GOD is Opener",
+      "GOD is Originator",
+      "GOD is The Source of All Goodness",
+      "GOD is best Protector"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 12:64",
+    "source_row": 242,
+    "active": true
+  },
+  {
+    "id": 212,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الحسيب\" (Al-Haseeb) mean?",
+    "options": [
+      "GOD is Withholder",
+      "GOD is Giver of Life",
+      "GOD is The Avenger",
+      "GOD is Reckoner"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 4:6",
+    "source_row": 243,
+    "active": true
+  },
+  {
+    "id": 213,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الجليل\" (Al-Jaleel) mean?",
+    "options": [
+      "GOD is Expander",
+      "GOD is Creator",
+      "GOD is Posser of Majesty",
+      "GOD is King"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 55:27",
+    "source_row": 244,
+    "active": true
+  },
+  {
+    "id": 214,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الكريم\" (Al-Kareem) mean?",
+    "options": [
+      "GOD is Abaser",
+      "GOD is Protector",
+      "GOD is Most Honorable",
+      "GOD is All-Knowing"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 82:6",
+    "source_row": 245,
+    "active": true
+  },
+  {
+    "id": 215,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الرقيب\" (Ar-Raqeeb) mean?",
+    "options": [
+      "GOD is Exalter",
+      "GOD is Forgiver",
+      "GOD is The Watcher",
+      "GOD is King"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 4:1",
+    "source_row": 246,
+    "active": true
+  },
+  {
+    "id": 216,
+    "type": "mcq",
+    "question": "What does the name of GOD \"المجيب\" (Al-Mujeeb) mean?",
+    "options": [
+      "GOD is Honourer",
+      "GOD is Peace",
+      "GOD is Responsive",
+      "GOD is Most Sacred"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 11:61",
+    "source_row": 247,
+    "active": true
+  },
+  {
+    "id": 217,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الواسع\" (Al-Waasi’) mean?",
+    "options": [
+      "GOD is Humiliator",
+      "GOD is Provider",
+      "GOD is Bounteous",
+      "GOD is Peace"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 2:247",
+    "source_row": 248,
+    "active": true
+  },
+  {
+    "id": 218,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الحكيم\" (Al-Hakeem) mean?",
+    "options": [
+      "GOD is All-Hearing",
+      "GOD is Just",
+      "GOD is Wise",
+      "GOD is Most Faithful"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 59:24",
+    "source_row": 249,
+    "active": true
+  },
+  {
+    "id": 219,
+    "type": "mcq",
+    "question": "What doe the name of GODs \"الودود\" (Al-Wadood) mean?",
+    "options": [
+      "GOD is All-Seeing",
+      "GOD is Protector",
+      "GOD is Most Kind",
+      "GOD is All-Hearing"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 85:14",
+    "source_row": 250,
+    "active": true
+  },
+  {
+    "id": 220,
+    "type": "mcq",
+    "question": "What does the name of GOD \"المجيد\" (Al-Majeed) mean?",
+    "options": [
+      "GOD is Judge",
+      "GOD is Most Powerful",
+      "GOD is Most Glorious",
+      "GOD is Most Merciful"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 11:73",
+    "source_row": 251,
+    "active": true
+  },
+  {
+    "id": 221,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الباعث\" (Al-Ba’ith) mean?",
+    "options": [
+      "GOD is Just",
+      "GOD is Compeller",
+      "GOD is Resurrector",
+      "GOD is Most Gentle"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 22:7",
+    "source_row": 252,
+    "active": true
+  },
+  {
+    "id": 222,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الشهيد\" (Ash-Shaheed) mean?",
+    "options": [
+      "GOD is Subtle",
+      "GOD is Most Proud",
+      "GOD is Witness",
+      "GOD is Most Generous"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 58:6",
+    "source_row": 253,
+    "active": true
+  },
+  {
+    "id": 223,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الحق\" (Al-Haqq) mean?",
+    "options": [
+      "GOD is All-Aware",
+      "GOD is Most Generous",
+      "GOD is The Truth",
+      "GOD is Creator"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 22:6",
+    "source_row": 254,
+    "active": true
+  },
+  {
+    "id": 224,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الوكيل\" (Al-Wakeel) mean?",
+    "options": [
+      "GOD is Forbearing",
+      "GOD is Originator",
+      "GOD is The Advocate",
+      "GOD is Giver of Death"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 4:81",
+    "source_row": 255,
+    "active": true
+  },
+  {
+    "id": 225,
+    "type": "mcq",
+    "question": "What does the name of GOD \"القوي\" (Al-Qawiyy) mean?",
+    "options": [
+      "GOD is Magnificent",
+      "GOD is Fashioner",
+      "GOD is The Most Powerful",
+      "GOD is The Ever-Living"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 51:58",
+    "source_row": 256,
+    "active": true
+  },
+  {
+    "id": 226,
+    "type": "mcq",
+    "question": "Which one of these is a purpose of code 19?",
+    "options": [
+      "To Strengthen the faith of the faithful",
+      "To provide numerical predictions",
+      "To put doubts in the hearts of Jews and Christians",
+      "To provide information on number of angels"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 74:30-31",
+    "source_row": 257,
+    "active": true
+  },
+  {
+    "id": 227,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الحميد\" (Al-Hameed) mean?",
+    "options": [
+      "GOD is Most High",
+      "GOD is Bestower",
+      "GOD is Praiseworthy",
+      "GOD is The Glorious"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 2:267",
+    "source_row": 258,
+    "active": true
+  },
+  {
+    "id": 228,
+    "type": "mcq",
+    "question": "Which prophet is specifically described as having been given the Psalms?",
+    "options": [
+      "David",
+      "Solomon",
+      "Jesus",
+      "Moses"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 4:163",
+    "source_row": 259,
+    "active": true
+  },
+  {
+    "id": 229,
+    "type": "mcq",
+    "question": "What does the name of GOD \"المبدئ\" (Al-Mubdi’) mean?",
+    "options": [
+      "GOD is Preserver",
+      "GOD is Opener",
+      "GOD is The Initiator",
+      "GOD is The Satisfier of Needs"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 85:13",
+    "source_row": 260,
+    "active": true
+  },
+  {
+    "id": 230,
+    "type": "mcq",
+    "question": "What does the name of GOD \"المعيد\" (Al-Mu’id) mean?",
+    "options": [
+      "GOD is Nourisher",
+      "GOD is All-Knowing",
+      "GOD is Restorer",
+      "GOD is Able"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 85:13",
+    "source_row": 261,
+    "active": true
+  },
+  {
+    "id": 231,
+    "type": "mcq",
+    "question": "What does the name of GOD \"المحيي\" (Al-Muhyi) mean?",
+    "options": [
+      "GOD is Reckoner",
+      "GOD is Withholder",
+      "GOD Controls Life",
+      "GOD is All-Powerful"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 2:258",
+    "source_row": 262,
+    "active": true
+  },
+  {
+    "id": 232,
+    "type": "mcq",
+    "question": "What does the name of GOD \"المميت\" (Al-Mumeet) mean?",
+    "options": [
+      "GOD Controls Death",
+      "GOD is The Pardoner",
+      "GOD is Majestic",
+      "GOD is Expander"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 10:56",
+    "source_row": 263,
+    "active": true
+  },
+  {
+    "id": 233,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الحي\" (Al-Hayy) mean?",
+    "options": [
+      "GOD is The Ever-Living",
+      "GOD is The Compassionate",
+      "GOD is Generous",
+      "GOD is Abaser"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 2:255",
+    "source_row": 264,
+    "active": true
+  },
+  {
+    "id": 234,
+    "type": "mcq",
+    "question": "What does the name of GOD \"القيوم\" (Al-Qayyoom) mean?",
+    "options": [
+      "GOD is Eternal",
+      "GOD is Possessor of Sovereignty",
+      "GOD is Watchful",
+      "GOD is Exalter"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 20:111",
+    "source_row": 265,
+    "active": true
+  },
+  {
+    "id": 235,
+    "type": "mcq",
+    "question": "According to Sura 2:62, which three conditions must anyone fulfill to receive recompense from their Lord?.",
+    "options": [
+      "Believe in God, believe in the Hereafter, and lead a righteous life",
+      "Study scripture, perform pilgrimage, and avoid sins",
+      "Believe in prophets, follow rituals, and worship in groups",
+      "Pray five times, fast, and give charity"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 2:62",
+    "source_row": 266,
+    "active": true
+  },
+  {
+    "id": 236,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الصمد\" (As-Samad) mean?",
+    "options": [
+      "GOD is The Absolute one",
+      "GOD is The Self-Sufficient",
+      "GOD is Loving",
+      "GOD is All-Seeing"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 112:2",
+    "source_row": 267,
+    "active": true
+  },
+  {
+    "id": 237,
+    "type": "mcq",
+    "question": "What does the name of GOD \"القادر\" (Al-Qaadir) mean?",
+    "options": [
+      "GOD is Omnipotent",
+      "GOD is The Enricher",
+      "GOD is Most Glorious",
+      "GOD is Judge"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 2:20",
+    "source_row": 268,
+    "active": true
+  },
+  {
+    "id": 238,
+    "type": "mcq",
+    "question": "What does the name of GOD \"المقتدر\" (Al-Muqtadir) mean?",
+    "options": [
+      "GOD is Omnipotent",
+      "GOD is The Preventer",
+      "GOD is Resurrector",
+      "GOD is Just"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 54:55",
+    "source_row": 269,
+    "active": true
+  },
+  {
+    "id": 239,
+    "type": "mcq",
+    "question": "What does the name of GOD \"المؤخر\" (Al-Mu’akhkhir) mean?",
+    "options": [
+      "GOD is The one who Respites",
+      "GOD is The Benefiter",
+      "GOD is The Truth",
+      "GOD is All-Aware"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 14:42",
+    "source_row": 270,
+    "active": true
+  },
+  {
+    "id": 240,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الأول\" (Al-Awwal) mean?",
+    "options": [
+      "GOD is The First",
+      "GOD is The Light",
+      "GOD is Trustee",
+      "GOD is Forbearing"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 57:3",
+    "source_row": 271,
+    "active": true
+  },
+  {
+    "id": 241,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الأخر\" (Al-Aakhir) mean?",
+    "options": [
+      "GOD is The Last",
+      "GOD is The Guide",
+      "GOD is Strong",
+      "GOD is Magnificent"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 57:3",
+    "source_row": 272,
+    "active": true
+  },
+  {
+    "id": 242,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الظاهر\" (Az-Zaahir) mean?",
+    "options": [
+      "GOD is The Outermost",
+      "GOD is The Incomparable",
+      "GOD is Firm",
+      "GOD is Forgiving"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 57:3",
+    "source_row": 273,
+    "active": true
+  },
+  {
+    "id": 243,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الباطن\" (Al-Baatin) mean?",
+    "options": [
+      "GOD is The Innermost",
+      "GOD is The Everlasting",
+      "GOD is Protector",
+      "GOD is Appreciative"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 57:3",
+    "source_row": 274,
+    "active": true
+  },
+  {
+    "id": 244,
+    "type": "mcq",
+    "question": "What does the name of GOD \"المتعالي\" (Al-Muta’ali) mean?",
+    "options": [
+      "GOD is The Most High",
+      "GOD is The Guide to the Right Path",
+      "GOD is Reckoner",
+      "GOD is Most Great"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 13:9",
+    "source_row": 275,
+    "active": true
+  },
+  {
+    "id": 245,
+    "type": "mcq",
+    "question": "What does the name of GOD \"البر\" (Al-Barr) mean?",
+    "options": [
+      "GOD is The Most Kind",
+      "GOD is The Patient",
+      "GOD is Originator",
+      "GOD is Preserver"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 52:28",
+    "source_row": 276,
+    "active": true
+  },
+  {
+    "id": 246,
+    "type": "mcq",
+    "question": "What does the name of GOD \"التواب\" (At-Tawwaab) mean?",
+    "options": [
+      "GOD is The Redeemer",
+      "GOD is The Beneficent",
+      "GOD is Restorer",
+      "GOD is Nourisher"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 49:12",
+    "source_row": 277,
+    "active": true
+  },
+  {
+    "id": 247,
+    "type": "mcq",
+    "question": "What does the name of GOD \"المنتقم\" (Al-Muntaqim) mean?",
+    "options": [
+      "GOD is The Avenger",
+      "GOD is The Concealer of Faults",
+      "GOD is Giver of Life",
+      "GOD is Reckoner"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 15:79",
+    "source_row": 278,
+    "active": true
+  },
+  {
+    "id": 248,
+    "type": "mcq",
+    "question": "What does the name of GOD \"العفو\" (Al-‘Afuww) mean?",
+    "options": [
+      "GOD is Giver of Death",
+      "GOD is The Pardoner",
+      "GOD is Expander",
+      "GOD is Majestic"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 4:149",
+    "source_row": 279,
+    "active": true
+  },
+  {
+    "id": 249,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الرؤوف\" (Ar-Ra’oof) mean?",
+    "options": [
+      "GOD is The Ever-Living",
+      "GOD is The Compassionate",
+      "GOD is Abaser",
+      "GOD is Generous"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 2:207",
+    "source_row": 280,
+    "active": true
+  },
+  {
+    "id": 250,
+    "type": "mcq",
+    "question": "What does the name of GOD \"مالك الملك\" (Maalik-ul-Mulk) mean?",
+    "options": [
+      "GOD is Self-Subsisting",
+      "GOD is Possessor of all Sovereignty",
+      "GOD is Exalter",
+      "GOD is Watchful"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 3:26",
+    "source_row": 281,
+    "active": true
+  },
+  {
+    "id": 251,
+    "type": "mcq",
+    "question": "What does the name of GOD \"ذو الجلال والإكرام\" (Dhul-Jalaali wal-Ikraam) mean?",
+    "options": [
+      "GOD is The Finder",
+      "GOD is Possessor of Majesty and Honour",
+      "GOD is Honourer",
+      "GOD is Responsive"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 55:27",
+    "source_row": 282,
+    "active": true
+  },
+  {
+    "id": 252,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الجامع\" (Al-Jaami’) mean?",
+    "options": [
+      "GOD is The One",
+      "GOD is The Gatherer",
+      "GOD is All-Hearing",
+      "GOD is Wise"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 3:9",
+    "source_row": 283,
+    "active": true
+  },
+  {
+    "id": 253,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الغني\" (Al-Ghaniyy) mean?",
+    "options": [
+      "GOD is The Satisfier of Needs",
+      "GOD does not need anyone",
+      "GOD is All-Seeing",
+      "GOD is Loving"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 29:6",
+    "source_row": 284,
+    "active": true
+  },
+  {
+    "id": 254,
+    "type": "mcq",
+    "question": "What does the name of GOD \"المغني\" (Al-Mughni) mean?",
+    "options": [
+      "GOD is Able",
+      "GOD is The Enricher",
+      "GOD is Judge",
+      "GOD is Most Glorious"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 53:48",
+    "source_row": 285,
+    "active": true
+  },
+  {
+    "id": 255,
+    "type": "mcq",
+    "question": "What are the letters A.L.R. referred to in verse 10:1 associated with?",
+    "options": [
+      "Proofs of the book of wisdom",
+      "Torah",
+      "Lost scriptures",
+      "Historical events"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 10:1",
+    "source_row": 286,
+    "active": true
+  },
+  {
+    "id": 256,
+    "type": "mcq",
+    "question": "Before visiting Lot's town which prophet/messenger did the angels meet with?",
+    "options": [
+      "Abraham",
+      "Lot",
+      "Sodom",
+      "Ismail"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 15:51-60",
+    "source_row": 287,
+    "active": true
+  },
+  {
+    "id": 257,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الهادي\" (Al-Haadi) mean?",
+    "options": [
+      "GOD is The Last",
+      "GOD is The Guide",
+      "GOD is Magnificent",
+      "GOD is Strong"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 25:31",
+    "source_row": 288,
+    "active": true
+  },
+  {
+    "id": 258,
+    "type": "mcq",
+    "question": "What does the name of GOD \"البديع\" (Al-Badee’) mean?",
+    "options": [
+      "GOD is The Manifest",
+      "GOD is The Initiator",
+      "GOD is Forgiving",
+      "GOD is Firm"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 2:117",
+    "source_row": 289,
+    "active": true
+  },
+  {
+    "id": 259,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الباقي\" (Al-Baaqi) mean?",
+    "options": [
+      "GOD is The Hidden",
+      "GOD is The Everlasting",
+      "GOD is Appreciative",
+      "GOD is Protector"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 20:73",
+    "source_row": 290,
+    "active": true
+  },
+  {
+    "id": 260,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الوارث\" (Al-Waarith) mean?",
+    "options": [
+      "GOD is The Governor",
+      "GOD is The Inheritor",
+      "GOD is Most High",
+      "GOD is Praiseworthy"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 15:23",
+    "source_row": 291,
+    "active": true
+  },
+  {
+    "id": 261,
+    "type": "mcq",
+    "question": "The thief, male or female, you shall ________ their hands...",
+    "options": [
+      "mark",
+      "break",
+      "cut off",
+      "tie"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 5:38",
+    "source_row": 292,
+    "active": true
+  },
+  {
+    "id": 262,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الشافي\" (Ash-Shaafi) mean?",
+    "options": [
+      "GOD is The Pardoner",
+      "GOD is The Healer",
+      "GOD is Nourisher",
+      "GOD is Restorer"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 26:80",
+    "source_row": 293,
+    "active": true
+  },
+  {
+    "id": 263,
+    "type": "mcq",
+    "question": "Those who received the scripture recognize the truth herein, as they recognize their _____",
+    "options": [
+      "Siblings",
+      "Brothers",
+      "Own children",
+      "Own families"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 2:146",
+    "source_row": 294,
+    "active": true
+  },
+  {
+    "id": 264,
+    "type": "mcq",
+    "question": "Which one of these is a description of hell?",
+    "options": [
+      "It is cold",
+      "Its fuel is people and rocks",
+      "It is temporary",
+      "It has angels only"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 2:24",
+    "source_row": 295,
+    "active": true
+  },
+  {
+    "id": 265,
+    "type": "mcq",
+    "question": "According to Surah 2 Verse 29, how many universes did God perfect?",
+    "options": [
+      "Eight",
+      "Seven",
+      "Six",
+      "Ten"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 2:29",
+    "source_row": 296,
+    "active": true
+  },
+  {
+    "id": 266,
+    "type": "mcq",
+    "question": "What is considered the “difficult path” in Sura 90?",
+    "options": [
+      "Fasting",
+      "Freeing slaves",
+      "Wealth accumulation",
+      "Migration"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 90:11-13",
+    "source_row": 297,
+    "active": true
+  },
+  {
+    "id": 267,
+    "type": "mcq",
+    "question": "What causes the hearts of those who reject the Hereafter to shrink?",
+    "options": [
+      "Mention of Hell",
+      "Mention of angels",
+      "Mention of idols",
+      "Mention of God ALONE"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 39:45",
+    "source_row": 298,
+    "active": true
+  },
+  {
+    "id": 268,
+    "type": "mcq",
+    "question": "Who is told to go to a shade of three different densities?",
+    "options": [
+      "Believers",
+      "Rejectors",
+      "Jews",
+      "Muslims"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 77:28-31",
+    "source_row": 299,
+    "active": true
+  },
+  {
+    "id": 269,
+    "type": "mcq",
+    "question": "What does the shade of three different densities provide?",
+    "options": [
+      "Coolness",
+      "Protection",
+      "Neither coolness nor Protection",
+      "Light"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 77:28-31",
+    "source_row": 300,
+    "active": true
+  },
+  {
+    "id": 270,
+    "type": "mcq",
+    "question": "In how many days did GOD create the heavens and the earth?",
+    "options": [
+      "Four",
+      "Two",
+      "Six",
+      "Seven"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 10:3",
+    "source_row": 301,
+    "active": true
+  },
+  {
+    "id": 271,
+    "type": "mcq",
+    "question": "What was the reponse to Pharoah, when he said that he has believed in one GOD?",
+    "options": [
+      "Welcome into Paradise",
+      "Let the Children of Israel go",
+      "Too late!",
+      "Ask forgiveness for your sins"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 10:90-91",
+    "source_row": 302,
+    "active": true
+  },
+  {
+    "id": 272,
+    "type": "mcq",
+    "question": "According to Sura 10 Verse 39, what did the people do before they rejected the Quran?",
+    "options": [
+      "They studied it carefully",
+      "They just rejected it without studying or examining it",
+      "They compared it with the truth in previous scriptures",
+      "They spread rumors about the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 10:39",
+    "source_row": 303,
+    "active": true
+  },
+  {
+    "id": 273,
+    "type": "mcq",
+    "question": "What did Noah pray to GOD, regarding his son?",
+    "options": [
+      "My Lord, let not my son board the Ark",
+      "My Lord, let my son lead the believers after me",
+      "My Lord, my son is a member of my family, and Your promise is the truth.",
+      "My Lord, my son has disbelieved, condemn him"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 11:45",
+    "source_row": 304,
+    "active": true
+  },
+  {
+    "id": 274,
+    "type": "mcq",
+    "question": "How does GOD describe human nature and supplication during distress at sea, in Surah 17?",
+    "options": [
+      "They become patient and grateful",
+      "They call upon GOD sincerely, but forget Him once safe",
+      "They worship idols for help",
+      "They deny God’s mercy"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 17:67",
+    "source_row": 305,
+    "active": true
+  },
+  {
+    "id": 275,
+    "type": "mcq",
+    "question": "Which of this permission does GOD grant Satan over humanity?",
+    "options": [
+      "He may entice them with voice",
+      "He can mobilize his forces against humanity",
+      "He can share in their money",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 17:64-65",
+    "source_row": 306,
+    "active": true
+  },
+  {
+    "id": 276,
+    "type": "mcq",
+    "question": "According to Sura 17 Verse 72  \"As for those who are blind in this life, they will be _____ in the Hereafter\"",
+    "options": [
+      "Redeemed",
+      "Forgiven",
+      "Happy",
+      "Blind"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 17:72",
+    "source_row": 307,
+    "active": true
+  },
+  {
+    "id": 277,
+    "type": "mcq",
+    "question": "In Sura 17 verse 93 what response does God command the messenger to give when disbelievers demand miracles to believe?",
+    "options": [
+      "I will show you signs soon",
+      "Glory be to my Lord! Am I anything but a human messenger?",
+      "I won't show you any miracles",
+      "You shall see what you ask"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 17:90-93",
+    "source_row": 308,
+    "active": true
+  },
+  {
+    "id": 278,
+    "type": "mcq",
+    "question": "In Sura 17, what did the disbelievers want from the prophet to consider him as a friend?",
+    "options": [
+      "To produce a miracle",
+      "To produce something that gets consumed by fire",
+      "To fabricate something other than the Quran",
+      "To change the direction of Qiblah"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 17:73",
+    "source_row": 309,
+    "active": true
+  },
+  {
+    "id": 279,
+    "type": "mcq",
+    "question": "According to Sura 17 Verse 45 \"When you read the Quran, we place between you and those who do not believe in the _____ an invisible barrier\".",
+    "options": [
+      "Quran",
+      "Hereafter",
+      "Messenger",
+      "Worldly life"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 17:45",
+    "source_row": 311,
+    "active": true
+  },
+  {
+    "id": 280,
+    "type": "mcq",
+    "question": "Why was the Quran released slowly to prophet Muhammed?",
+    "options": [
+      "So that it can be read to the people over a long period",
+      "So that the disbelievers don’t destory it",
+      "So that the it can be translated to different languages",
+      "So that the prophet can explain it in detail"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 17:106",
+    "source_row": 312,
+    "active": true
+  },
+  {
+    "id": 281,
+    "type": "mcq",
+    "question": "What does GOD instruct His servants to do to resist the devil’s attempt to create division among them?",
+    "options": [
+      "Be strict in dealing with each other",
+      "Treat each other in the best possible manner",
+      "Ignore Devil's attempts",
+      "Do group prayers regularly"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 17:53",
+    "source_row": 313,
+    "active": true
+  },
+  {
+    "id": 282,
+    "type": "mcq",
+    "question": "Which of these is a reason why GOD places contentment into the heart of the believers?",
+    "options": [
+      "Because they detach completely from worldly life",
+      "To Augment more faith, in addition to their faith",
+      "Because they recognize Muhammed as the best prophet",
+      "To make them indifferent to their responsibilities"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 48:4",
+    "source_row": 314,
+    "active": true
+  },
+  {
+    "id": 283,
+    "type": "mcq",
+    "question": "If all humans and jinns banded together, what could they not do?",
+    "options": [
+      "Penetrate the outer limits of solar system",
+      "Produce even one surah equal to the Qur’an",
+      "Create baseless hadith",
+      "All of the above"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 17:88",
+    "source_row": 315,
+    "active": true
+  },
+  {
+    "id": 284,
+    "type": "mcq",
+    "question": "Which Surah has \"Bismillah\" twice?",
+    "options": [
+      "Sura 1",
+      "Sura 9",
+      "Sura 27",
+      "Sura 36"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 27:1-30",
+    "source_row": 316,
+    "active": true
+  },
+  {
+    "id": 285,
+    "type": "mcq",
+    "question": "Which type of verses constitute the essence of the scripture (Quran)?",
+    "options": [
+      "Straightforward verses",
+      "Multiple-meaning verses",
+      "Allegorical verses",
+      "None of the above"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 3:7",
+    "source_row": 318,
+    "active": true
+  },
+  {
+    "id": 286,
+    "type": "mcq",
+    "question": "Which type of verses does the Quran contain?",
+    "options": [
+      "Allegorical verses",
+      "Straightforward verses",
+      "Multiple-meaning verses",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 3:7",
+    "source_row": 319,
+    "active": true
+  },
+  {
+    "id": 287,
+    "type": "mcq",
+    "question": "Regarding Chastity, which of these statements is correct as per Sura 24 ?",
+    "options": [
+      "Both believing men and women should subdue their eyes and maintain chastity",
+      "Only the believing Women should subdue their eyes and not Men",
+      "Only the believing Men should subdue their eyes and not Women",
+      "No one is required to subdue their eyes, but women should maintain chastity"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 24:31",
+    "source_row": 320,
+    "active": true
+  },
+  {
+    "id": 288,
+    "type": "mcq",
+    "question": "How is Abraham described in the Quran?",
+    "options": [
+      "A monotheist",
+      "Father of all prophets",
+      "Superior to Moses and Jesus",
+      "A Jewish prophet"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 3:67",
+    "source_row": 321,
+    "active": true
+  },
+  {
+    "id": 289,
+    "type": "mcq",
+    "question": "What did Abraham destroy to prove that the idols could not defend themselves?.",
+    "options": [
+      "All idols except one",
+      "All idols",
+      "Only one idol",
+      "He did not destroy anything"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 21:51-58",
+    "source_row": 322,
+    "active": true
+  },
+  {
+    "id": 290,
+    "type": "mcq",
+    "question": "Which of these is prohibited in the Quran?",
+    "options": [
+      "Intoxication",
+      "Anonymous Charity",
+      "Divorce",
+      "Marrying Adopted Son's wife"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 5:90",
+    "source_row": 323,
+    "active": true
+  },
+  {
+    "id": 291,
+    "type": "mcq",
+    "question": "Who was thrown into the fire then survived ?",
+    "options": [
+      "Abraham",
+      "Joseph",
+      "Jesus",
+      "Moses"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 21:68-70",
+    "source_row": 324,
+    "active": true
+  },
+  {
+    "id": 292,
+    "type": "mcq",
+    "question": "Which Sura begins with these letters: “A.L.M.”?",
+    "options": [
+      "2",
+      "10",
+      "20",
+      "12"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 2:1",
+    "source_row": 325,
+    "active": true
+  },
+  {
+    "id": 293,
+    "type": "mcq",
+    "question": "When people face danger at sea, what kind of sincere prayer do they offer to God alone?.",
+    "options": [
+      "If you only save us this time, we will be eternally appreciative",
+      "If you only save us this time, we will give up all our wealth to charity",
+      "If you only save us this time, we will  never come back to the sea",
+      "If you only save us this time, we will observe the contact prayers regularly"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 10:22",
+    "source_row": 326,
+    "active": true
+  },
+  {
+    "id": 294,
+    "type": "mcq",
+    "question": "According to Sura 24 Verse 32, who should you encourage to get married?",
+    "options": [
+      "Those who are Single",
+      "Anyone who has attained the age of 30",
+      "Those who are rich and can support orphans",
+      "Those who are ready to marry a slave"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 24:32",
+    "source_row": 327,
+    "active": true
+  },
+  {
+    "id": 295,
+    "type": "mcq",
+    "question": "What is the prescribed duration for a divorced mother to nurse her infant if the father wishes?",
+    "options": [
+      "Two full years",
+      "One full year",
+      "Until the child is weaned naturally",
+      "Four menstruations"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 2:233",
+    "source_row": 328,
+    "active": true
+  },
+  {
+    "id": 296,
+    "type": "mcq",
+    "question": "According to Quran, GOD will send a Messenger after all the prophets to....",
+    "options": [
+      "To confirm all existing scriptures",
+      "To lead a physical war against the distorters of the Qur'an",
+      "To deliver the chronological sequence of the original Quranic revelation",
+      "To establish a brand new religion separate from Judaism and Christianity"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 3:81",
+    "source_row": 329,
+    "active": true
+  },
+  {
+    "id": 297,
+    "type": "mcq",
+    "question": "Which of these scientific theories is discussed in Sura 21 verse 30?",
+    "options": [
+      "The Big bang theory",
+      "Photovoltaic effect",
+      "Quantum theory",
+      "Theory of relativity"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 21:30",
+    "source_row": 330,
+    "active": true
+  },
+  {
+    "id": 298,
+    "type": "mcq",
+    "question": "According to Sura 21 Verse 30 which element is common in all living things?",
+    "options": [
+      "Water",
+      "Fire",
+      "Air (oxygen)",
+      "Clay"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 21:30",
+    "source_row": 331,
+    "active": true
+  },
+  {
+    "id": 299,
+    "type": "mcq",
+    "question": "Which of these scientific facts is discussed in Sura 53 verse 46?",
+    "options": [
+      "The gender of baby is decided by seminal fluid",
+      "The quantum effects of light",
+      "The color theory",
+      "The natural healing effects of silver"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 53:45-46",
+    "source_row": 332,
+    "active": true
+  },
+  {
+    "id": 300,
+    "type": "mcq",
+    "question": "The Quran is a beacon for ____.",
+    "options": [
+      "Those who call themselves Jews, Christians and Muslims",
+      "The people of Mecca (Arabs) only",
+      "Those who call themselves Muslims",
+      "The Righteous"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 2:2",
+    "source_row": 333,
+    "active": true
+  },
+  {
+    "id": 301,
+    "type": "mcq",
+    "question": "The Quran is a message for _____.",
+    "options": [
+      "The whole world",
+      "The Believers only",
+      "The people of Mecca (Arabs only)",
+      "The Righteous only"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 68:52",
+    "source_row": 334,
+    "active": true
+  },
+  {
+    "id": 302,
+    "type": "mcq",
+    "question": "What was the response of the Angels when GOD announced that he is placing a respresentative on earth?",
+    "options": [
+      "They celebrated and rejoiced immediately",
+      "They asked if He would place there one who would spread evil and shed blood",
+      "They remained silent",
+      "They asked to be made the representative instead"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 2:30",
+    "source_row": 335,
+    "active": true
+  },
+  {
+    "id": 303,
+    "type": "mcq",
+    "question": "The person who bought Joseph was a ______",
+    "options": [
+      "Merchant from Canaan",
+      "A person of authority in Egypt",
+      "Caravan leader from Midyan",
+      "Pharoah of Egypt"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 12:20-30",
+    "source_row": 336,
+    "active": true
+  },
+  {
+    "id": 304,
+    "type": "mcq",
+    "question": "What did the birds shower upon the people of elephant?",
+    "options": [
+      "Burning twigs",
+      "Chewed Hay",
+      "Hard Stones",
+      "Iron balls"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 105:3-4",
+    "source_row": 337,
+    "active": true
+  },
+  {
+    "id": 305,
+    "type": "mcq",
+    "question": "Which Sura has the most number of initials in one verse ?",
+    "options": [
+      "Sura 13: Thunder (Al-Ra‘ad)",
+      "Surah 19: Mary (Maryam)",
+      "Sura 7: The Purgatory (Al-A‘arãf)",
+      "Sura 28: History (Al-Qasas)"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 19:1",
+    "source_row": 338,
+    "active": true
+  },
+  {
+    "id": 306,
+    "type": "mcq",
+    "question": "Who did Pharoah instruct to build a tower?",
+    "options": [
+      "A group of skilled Egyptian laborers",
+      "Qarun",
+      "The Magicians",
+      "Hamaan"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 28:38",
+    "source_row": 341,
+    "active": true
+  },
+  {
+    "id": 307,
+    "type": "mcq",
+    "question": "According to Sura 2 verse 62 who is eligible to receive recompense from their Lord if they believe in God, the Last Day and lead a righteous life?",
+    "options": [
+      "Only those who identify as Muslims within Islamic Tradition",
+      "Only those who accept Prophet Muhammed as the last messenger",
+      "Anyone",
+      "Only those who follow all rites of the Abrahamic religions"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 2:62",
+    "source_row": 342,
+    "active": true
+  },
+  {
+    "id": 308,
+    "type": "mcq",
+    "question": "What is the difference between Mu' mens and Muslims?",
+    "options": [
+      "A Muslim is one who fought in war, while Mu'men is a peaceful scholar",
+      "Belief is established in the heart of a Mu'men, while Muslims are ones who have submitted, but belief is yet to be fully established",
+      "There is no difference, both are same",
+      "A Mu'men is of Arab descent, while anyone can be a Muslim"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 49:14",
+    "source_row": 343,
+    "active": true
+  },
+  {
+    "id": 309,
+    "type": "mcq",
+    "question": "According to Sura 10 who does GOD guide and what will be their ultimate prayer in the Hereafter?",
+    "options": [
+      "GOD guides those who believe and lead a righteous life, and their ultimate prayer is for more riches.",
+      "GOD guides whomever he wills and their ultimate prayer is for Patience",
+      "GOD guides whomever he wills, and their ultimate prayer is for a long life",
+      "GOD guides those who believe and lead a righteous life, and their ultimate prayer is Praise be to GOD, Lord of the universe."
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 10:9-10",
+    "source_row": 344,
+    "active": true
+  },
+  {
+    "id": 310,
+    "type": "mcq",
+    "question": "According to Sura 10 Verse 31, when the disbelievers are asked who produces  the dead from the living and who is in control of all things, they answer \"GOD.\" What does GOD tell us to say to them ?",
+    "options": [
+      "Why then do you not travel the earth and note the consequences for the guilty?",
+      "Why do you ask for miracles ?",
+      "Why then do you not observe the commandments ?",
+      "Why then do you question the messenger ?"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 10:31",
+    "source_row": 345,
+    "active": true
+  },
+  {
+    "id": 311,
+    "type": "mcq",
+    "question": "According to Sura 10 Verse 5, how did God make the sun and the moon?",
+    "options": [
+      "He made the Sun and the Moon only as ornaments of the sky",
+      "He made the Sun a source of warmth and the Moon a symbol of peace",
+      "He made the Sun a Radiant and the Moon a light",
+      "All of the above"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 10:5",
+    "source_row": 346,
+    "active": true
+  },
+  {
+    "id": 312,
+    "type": "mcq",
+    "question": "In Sura 10 Verse 20, which prophet are the people referring to when they say, \"Why has no miracle been sent down to him from his Lord?\" How does God instruct him to respond to them?",
+    "options": [
+      "Prophet Moses; \"My staff is the proof my Lord has given me.\"",
+      "Prophet Muhammed; \"The future belongs to GOD; so wait, and I am waiting along with you.\"",
+      "Prophet Muhammad; \"I will ask my Lord to send a miracle soon.\"",
+      "Prophet Jesus; \"The miracles are manifested by GOD to those who believe.\""
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 10:20",
+    "source_row": 347,
+    "active": true
+  },
+  {
+    "id": 313,
+    "type": "mcq",
+    "question": "According to Sura 10 Verse 6, Surely, in the _____ of night and day, and what GOD created in the heavens and the earth, there are proofs for people who are righteous.",
+    "options": [
+      "Alternation",
+      "Length",
+      "Beauty",
+      "Silence"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 10:6",
+    "source_row": 348,
+    "active": true
+  },
+  {
+    "id": 314,
+    "type": "mcq",
+    "question": "According to  Sura 34 Verse 15, what description is given of Sheba's homeland?",
+    "options": [
+      "A vast desert with zero water",
+      "Two gardens on the right and left",
+      "A crystal palace",
+      "A mountain with Twelve springs"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 34:15",
+    "source_row": 349,
+    "active": true
+  },
+  {
+    "id": 315,
+    "type": "mcq",
+    "question": "According to  Sura 33 Verse 5, how should adopted children be named?",
+    "options": [
+      "After their adoptive family",
+      "With names that preserve their relationship to their genetic parents",
+      "Only after prophets of GOD",
+      "With names chosen by community elders"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 33:5",
+    "source_row": 350,
+    "active": true
+  },
+  {
+    "id": 316,
+    "type": "mcq",
+    "question": "According to  Sura 36 Verse 39, what is the moon designed to appear like as it going through its stages?",
+    "options": [
+      "A full sphere",
+      "A crescent Star",
+      "A glowing lamp",
+      "An old curved sheath."
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 36:39",
+    "source_row": 351,
+    "active": true
+  },
+  {
+    "id": 317,
+    "type": "mcq",
+    "question": "According to  Sura 36 Verse 65, what will bear witness to everything they had done?",
+    "options": [
+      "Their shadows",
+      "Their wealth and possessions",
+      "Their Children",
+      "Their Hands and Feet"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 36:65",
+    "source_row": 352,
+    "active": true
+  },
+  {
+    "id": 318,
+    "type": "mcq",
+    "question": "How does the flowers of the tree of bitterness look like?",
+    "options": [
+      "Molten Tar",
+      "Burning Stones",
+      "The Devils' head",
+      "Sparks the size of a mansion"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 37:62-65",
+    "source_row": 353,
+    "active": true
+  },
+  {
+    "id": 319,
+    "type": "mcq",
+    "question": "According to  Sura 74 Verse 42, when asked \"what brought you to this retribution?\" The first response of the guilty is ?",
+    "options": [
+      "We did not observe Fasting",
+      "We did not give Zakat",
+      "We did not observe the contact prayers",
+      "We did not follow the prophet"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 74:42-43",
+    "source_row": 354,
+    "active": true
+  },
+  {
+    "id": 320,
+    "type": "mcq",
+    "question": "Luqman advises his son to Lower his voice and explains that the ugliest voice is ____ voice.",
+    "options": [
+      "Disbeliever's",
+      "Satan's",
+      "Donkey’s",
+      "Camel's"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 31:19",
+    "source_row": 355,
+    "active": true
+  },
+  {
+    "id": 321,
+    "type": "mcq",
+    "question": "According to  Sura 31 Verse 14, the human being should be appreciative of GOD and _____",
+    "options": [
+      "His Community",
+      "Prophet Muhammed",
+      "Messengers of GOD",
+      "His Parents"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 31:14",
+    "source_row": 356,
+    "active": true
+  },
+  {
+    "id": 322,
+    "type": "mcq",
+    "question": "According to  Sura 36 Verse 17, what is the sole misson of the messengers?",
+    "options": [
+      "To deliver the message",
+      "To be a guardian for the people",
+      "To perform miracles",
+      "All of the above"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 36:14-17",
+    "source_row": 357,
+    "active": true
+  },
+  {
+    "id": 323,
+    "type": "mcq",
+    "question": "According to  Sura 31 Verse 28, the creation and resurrection of all Humanity is the same as that of ______",
+    "options": [
+      "A mustard Seed",
+      "The Sun and Moon",
+      "A Growing Plant",
+      "One person"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 31:28",
+    "source_row": 358,
+    "active": true
+  },
+  {
+    "id": 324,
+    "type": "mcq",
+    "question": "Which of these statements is true about money and children?",
+    "options": [
+      "They are joys of this life",
+      "Having them represents sincere faith",
+      "They are always harmful for our souls",
+      "They guarantee a good future"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 18:46",
+    "source_row": 359,
+    "active": true
+  },
+  {
+    "id": 325,
+    "type": "mcq",
+    "question": "What happened to the tablets with GOD's commandments that moses threw down?",
+    "options": [
+      "They got destroyed",
+      "Samarian picked it up",
+      "They got lost",
+      "Moses picked it back up once his anger subsided"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 7:150-154",
+    "source_row": 360,
+    "active": true
+  },
+  {
+    "id": 326,
+    "type": "mcq",
+    "question": "What reason did the people of Midyan give for not stoning Shuaib?",
+    "options": [
+      "They feared the punishment of GOD.",
+      "They believed in Shuaib",
+      "Because of the Tribe he belonged to",
+      "They did not give any reason and tried to stone him"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 11:91",
+    "source_row": 361,
+    "active": true
+  },
+  {
+    "id": 327,
+    "type": "mcq",
+    "question": "What has GOD decreed about himself and his messengers?",
+    "options": [
+      "He and His messengers will judge all of humanity on the day of ressurection",
+      "He and His messengers will grant mercy to the repentant on the day of ressurection",
+      "He and His messengers will resurrect all of humanity on the day of ressurection",
+      "He and His messengers will most assuredly win"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 58:21",
+    "source_row": 362,
+    "active": true
+  },
+  {
+    "id": 328,
+    "type": "mcq",
+    "question": "How long is the day in which the angels climb to GOD with their reports ?",
+    "options": [
+      "Fifty thousand years",
+      "Seventy thousand years",
+      "Sixty thousand years",
+      "Forty thousand years"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 70:4",
+    "source_row": 363,
+    "active": true
+  },
+  {
+    "id": 329,
+    "type": "mcq",
+    "question": "The Night of Destiny is better than how many months ?",
+    "options": [
+      "Thousand",
+      "Fifty thousand",
+      "Six",
+      "Twenty Four"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 97:3",
+    "source_row": 364,
+    "active": true
+  },
+  {
+    "id": 330,
+    "type": "mcq",
+    "question": "Which of these scriptures were revealed after Abraham?",
+    "options": [
+      "Gospel",
+      "Torah",
+      "Psalms",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 3",
+    "source_row": 366,
+    "active": true
+  },
+  {
+    "id": 331,
+    "type": "mcq",
+    "question": "What did the disbelievers want the messenger to do in order to believe?",
+    "options": [
+      "Cause a spring to gush out of the ground",
+      "Make Sun rise from the West",
+      "Split the moon",
+      "Bring back Gog and Magog"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 17:90-93",
+    "source_row": 367,
+    "active": true
+  },
+  {
+    "id": 332,
+    "type": "mcq",
+    "question": "What did the disbelievers want the messenger to do in order to believe?",
+    "options": [
+      "Make every person in Makkah wealthy",
+      "Own a garden of date palms and grapes, with rivers running through it",
+      "Split the moon",
+      "Remove all sickness from the people"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 17:90-93",
+    "source_row": 368,
+    "active": true
+  },
+  {
+    "id": 333,
+    "type": "mcq",
+    "question": "What did the disbelievers want the messenger to do in order to believe?",
+    "options": [
+      "Split the moon",
+      "Remove all sickness from the people",
+      "Bring GOD and angels before their eyes",
+      "Make Sun rise from the West"
+    ],
+    "correct": "C",
+    "difficulty": "medium",
+    "reference": "Sura 17:90-93",
+    "source_row": 369,
+    "active": true
+  },
+  {
+    "id": 334,
+    "type": "mcq",
+    "question": "What did the disbelievers want the messenger to do in order to believe?",
+    "options": [
+      "Make Sun rise from the West",
+      "make every person in Makkah wealthy",
+      "Bring back Gog and Magog",
+      "Own a luxurious mansion"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 17:90-93",
+    "source_row": 370,
+    "active": true
+  },
+  {
+    "id": 335,
+    "type": "mcq",
+    "question": "What did the disbelievers want the messenger to do in order to believe?",
+    "options": [
+      "Climb into the sky and bring a book that they can read",
+      "Split the moon",
+      "Remove all sickness from the people",
+      "Bring back Gog and Magog"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 17:90-93",
+    "source_row": 371,
+    "active": true
+  },
+  {
+    "id": 336,
+    "type": "mcq",
+    "question": "According to Sura 7 Verse 189, GOD created us (human beings) from how many people?",
+    "options": [
+      "One Person",
+      "Two People",
+      "Twelve Communities",
+      "One Nation"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "Sura 7:189",
+    "source_row": 372,
+    "active": true
+  },
+  {
+    "id": 337,
+    "type": "mcq",
+    "question": "According to Sura 58 Verse 10 , whose idea is secret conspiracy?",
+    "options": [
+      "Hypocrites",
+      "Devil's",
+      "Disbelievers",
+      "Believers"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 58:10",
+    "source_row": 373,
+    "active": true
+  },
+  {
+    "id": 338,
+    "type": "mcq",
+    "question": "How is the process of giving birth described in the Quran?",
+    "options": [
+      "An easy one",
+      "An ardous one",
+      "A Natural one with no difficulties",
+      "A process which requires the help of several people"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 46:15",
+    "source_row": 374,
+    "active": true
+  },
+  {
+    "id": 339,
+    "type": "mcq",
+    "question": "According to Sura 46, who heard the Quran and rushed back to warn their people that they have heard a book revealed after Moses and confirms previous scriptures?",
+    "options": [
+      "A group of Angels",
+      "A group of Believers",
+      "A group of disbelievers",
+      "A group of Jinns"
+    ],
+    "correct": "D",
+    "difficulty": "medium",
+    "reference": "Sura 46:29",
+    "source_row": 375,
+    "active": true
+  },
+  {
+    "id": 340,
+    "type": "mcq",
+    "question": "Who has GOD honoured by providing the human beings rides on land and sea?",
+    "options": [
+      "Only the believers",
+      "The children of Adam",
+      "Only the children of Israel",
+      "Only the people of Noah"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "Sura 17:70",
+    "source_row": 377,
+    "active": true
+  },
+  {
+    "id": 341,
+    "type": "mcq",
+    "question": "Who carved the rocks in their valley?",
+    "options": [
+      "Midyan",
+      "Aad",
+      "Sodom and Gomorrah",
+      "Thamoud"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "Sura 89:9",
+    "source_row": 382,
+    "active": true
+  },
+  {
+    "id": 342,
+    "type": "mcq",
+    "question": "Those who intend to divorce their wives shall wait for _____",
+    "options": [
+      "Four Weeks",
+      "Three Months",
+      "Four Months",
+      "40 days"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "Sura 2:226",
+    "source_row": 383,
+    "active": true
+  },
+  {
+    "id": 343,
+    "type": "mcq",
+    "question": "How much time should the divorced women wait before marrying another man?",
+    "options": [
+      "Three months",
+      "Three menstruations",
+      "Forty days",
+      "Four Months"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 2:228",
+    "source_row": 384,
+    "active": true
+  },
+  {
+    "id": 344,
+    "type": "mcq",
+    "question": "In Sura 2:238, GOD tells us to consistently observe the Contact Prayers, especially the ______ prayer",
+    "options": [
+      "Middle",
+      "Last",
+      "Night",
+      "Noon"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 2:238",
+    "source_row": 385,
+    "active": true
+  },
+  {
+    "id": 345,
+    "type": "mcq",
+    "question": "Complete the verse \"With their eyes humiliated, they come out of the graves like scattered _______\"",
+    "options": [
+      "Bees",
+      "Locust",
+      "Grasshopper",
+      "Lice"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 54:7",
+    "source_row": 386,
+    "active": true
+  },
+  {
+    "id": 346,
+    "type": "mcq",
+    "question": "Noah was carried on a watercraft made of _____ and _____",
+    "options": [
+      "Logs and rubber",
+      "Stones and ropes",
+      "Logs and stones",
+      "Logs and ropes"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "Sura 54:9-13",
+    "source_row": 387,
+    "active": true
+  },
+  {
+    "id": 347,
+    "type": "mcq",
+    "question": "In Sura 19 verse 44 Abraham tells his father to not worship the _____",
+    "options": [
+      "Sun",
+      "Statues",
+      "Devil",
+      "Idols"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "Sura 19:41-44",
+    "source_row": 388,
+    "active": true
+  },
+  {
+    "id": 348,
+    "type": "mcq",
+    "question": "GOD called moses from which side of Mount Sinai ?",
+    "options": [
+      "Left side",
+      "Right side",
+      "North side",
+      "South side"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 28:29-30",
+    "source_row": 389,
+    "active": true
+  },
+  {
+    "id": 349,
+    "type": "mcq",
+    "question": "GOD designed the moon therein to be a____, and placed the sun to be a ____",
+    "options": [
+      "Sign,Proof",
+      "Light,Lamp",
+      "Lamp, Light",
+      "Proof,Sign"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 71:15-16",
+    "source_row": 390,
+    "active": true
+  },
+  {
+    "id": 350,
+    "type": "mcq",
+    "question": "Which of these is an idol not associated with the people of Noah ?",
+    "options": [
+      "Yaghouth",
+      "Nasr",
+      "Allaat",
+      "Wadd"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "Sura 71:21-23",
+    "source_row": 391,
+    "active": true
+  },
+  {
+    "id": 351,
+    "type": "mcq",
+    "question": "What was the name of Abraham's Father?",
+    "options": [
+      "Jacob",
+      "Azar",
+      "Idris",
+      "None of the above"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 6:74",
+    "source_row": 392,
+    "active": true
+  },
+  {
+    "id": 352,
+    "type": "mcq",
+    "question": "How many Surahs in the Quran begin with the letter 'Qaf'?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 42:2",
+    "source_row": 393,
+    "active": true
+  },
+  {
+    "id": 353,
+    "type": "mcq",
+    "question": "Who is the Grandfather (maternal) of Jesus?",
+    "options": [
+      "Zachariah",
+      "Joseph",
+      "Amram",
+      "Aaron"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "Sura 3:35-37",
+    "source_row": 394,
+    "active": true
+  },
+  {
+    "id": 354,
+    "type": "mcq",
+    "question": "How many gangsters planned to kill Saleh?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "11"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "Sura 27:45-49",
+    "source_row": 395,
+    "active": true
+  },
+  {
+    "id": 355,
+    "type": "mcq",
+    "question": "What was on the tablets given to Moses?",
+    "options": [
+      "The complete Torah",
+      "Warnings to be delivered to Pharoah",
+      "All kinds of enlightenments",
+      "Manna and Quails"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "Sura 7:144-145",
+    "source_row": 397,
+    "active": true
+  },
+  {
+    "id": 356,
+    "type": "mcq",
+    "question": "Who was a descendent of Aaron?",
+    "options": [
+      "Mary",
+      "Moses",
+      "Samarian",
+      "Qaroon"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 19:27-28",
+    "source_row": 398,
+    "active": true
+  },
+  {
+    "id": 357,
+    "type": "mcq",
+    "question": "How did they select Mary's Guardian?",
+    "options": [
+      "By nominating the oldest priest of the sanctuary",
+      "This information is not given in the Quran",
+      "By drawing raffles",
+      "By nominating the person chosen by Gabriel"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "Sura 3:44",
+    "source_row": 399,
+    "active": true
+  },
+  {
+    "id": 358,
+    "type": "mcq",
+    "question": "Who was sent as a messenger to the Children of Israel?",
+    "options": [
+      "Abraham",
+      "Noah",
+      "Adam",
+      "Jesus"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "Sura 3:49-52",
+    "source_row": 401,
+    "active": true
+  },
+  {
+    "id": 359,
+    "type": "mcq",
+    "question": "Which of these statements is Correct? 1. Moses was sent as a messenger to Pharoah and his group.  2. Jesus was sent as a messenger to the Children of Israel.",
+    "options": [
+      "1st Statement Correct",
+      "2nd Statement Correct",
+      "Both Correct",
+      "Both Wrong"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "Sura 3",
+    "source_row": 402,
+    "active": true
+  },
+  {
+    "id": 360,
+    "type": "mcq",
+    "question": "Who wanted to hurt Jesus?",
+    "options": [
+      "Muslims",
+      "Pharoah",
+      "The people of Aad",
+      "Children of Israel"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "Sura 5:110",
+    "source_row": 403,
+    "active": true
+  },
+  {
+    "id": 361,
+    "type": "mcq",
+    "question": "The women who gossiped about Joseph and Governor's wife, admired him and referred him as _____?",
+    "options": [
+      "A Greek God",
+      "An honourable Angel",
+      "A righteous prophet",
+      "A loyal servant"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 12:30-31",
+    "source_row": 405,
+    "active": true
+  },
+  {
+    "id": 362,
+    "type": "mcq",
+    "question": "Which prophet's stories are connected to a fish?",
+    "options": [
+      "Jonah and Moses",
+      "Jonah and Hud",
+      "Jesus and Noah",
+      "Joseph and Moses"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 37",
+    "source_row": 406,
+    "active": true
+  },
+  {
+    "id": 363,
+    "type": "mcq",
+    "question": "What does the name of GOD \"الكافي\" (Al-Kaafi) mean?",
+    "options": [
+      "GOD is The Compassionate",
+      "GOD is The Sufficer",
+      "GOD is Reckoner",
+      "GOD is Giver of Life"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 39:36",
+    "source_row": 407,
+    "active": true
+  },
+  {
+    "id": 364,
+    "type": "mcq",
+    "question": "\"My Lord, direct me to be appreciative of the blessings You have bestowed upon me and my parents, and to do the righteous works that please You\" This statement was said by",
+    "options": [
+      "David",
+      "Solomon",
+      "Jacob",
+      "Hud"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 27:19",
+    "source_row": 408,
+    "active": true
+  },
+  {
+    "id": 365,
+    "type": "mcq",
+    "question": "Which of these examples does GOD give to describe this worldly life?",
+    "options": [
+      "Like a fleeting dream at night",
+      "Like rain that makes plants grow, then they wither and dry",
+      "Like a long-lasting garden",
+      "Like gold that never loses shine"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 10:24",
+    "source_row": 410,
+    "active": true
+  },
+  {
+    "id": 366,
+    "type": "mcq",
+    "question": "What permission and restrictions did GOD grant Satan over humanity?",
+    "options": [
+      "Satan may mislead all except the prophets",
+      "Satan may entice all with voice, but cannot promise them anything",
+      "Satan may entice all with voice, but cannot harm true servants of God",
+      "Satan may entice all with voice but cannot mobilize his forces against humanity"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "Sura 17:64-65",
+    "source_row": 411,
+    "active": true
+  },
+  {
+    "id": 367,
+    "type": "mcq",
+    "question": "Who prays to GOD to build a home for her in Paradise?",
+    "options": [
+      "Abraham's Wife",
+      "Mary",
+      "Moses's mother",
+      "Pharoah's wife"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "Sura 66:11",
+    "source_row": 412,
+    "active": true
+  },
+  {
+    "id": 368,
+    "type": "mcq",
+    "question": "According to Sura 44, what does the smoke do to the people?",
+    "options": [
+      "It reminds the people of an englightening messenger",
+      "It envelops the people",
+      "It causes the people a painful retribution",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "Sura 44:10-13",
+    "source_row": 413,
+    "active": true
+  },
+  {
+    "id": 369,
+    "type": "mcq",
+    "question": "Which of these statements is true?",
+    "options": [
+      "Mary was happy with Jesus's birth",
+      "Mary was ashamed with Jesus's birth",
+      "Mary was near a fig tree when Jesus was born",
+      "Mary nearly lost her life during Jesus’s birth"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 19:23",
+    "source_row": 414,
+    "active": true
+  },
+  {
+    "id": 370,
+    "type": "mcq",
+    "question": "According to Sura 4 Verse 15, when a women is accused of adultery, how many witnesses should be against them?",
+    "options": [
+      "Four",
+      "Five",
+      "Three",
+      "Two"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 4:15",
+    "source_row": 417,
+    "active": true
+  },
+  {
+    "id": 371,
+    "type": "mcq",
+    "question": "Which of these wild animals is mentioned in the Quran?",
+    "options": [
+      "Lion",
+      "Deer",
+      "Bear",
+      "All of the above"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 74:51",
+    "source_row": 418,
+    "active": true
+  },
+  {
+    "id": 372,
+    "type": "mcq",
+    "question": "Which attribute of GOD is not mentioned in Sura 1?",
+    "options": [
+      "Creator",
+      "Lord of the Universe",
+      "Most Merciful",
+      "Master"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 1:1-7",
+    "source_row": 419,
+    "active": true
+  },
+  {
+    "id": 373,
+    "type": "mcq",
+    "question": "The example of Jesus, as far as GOD is concerned, is the same as that of ____?",
+    "options": [
+      "Adam",
+      "Joseph",
+      "John",
+      "Mary"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 3:59",
+    "source_row": 420,
+    "active": true
+  },
+  {
+    "id": 374,
+    "type": "mcq",
+    "question": "Which is of these animals are mentioned in reference to the children of Israel?",
+    "options": [
+      "Donkey",
+      "Apes",
+      "Snake",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 421,
+    "active": true
+  },
+  {
+    "id": 375,
+    "type": "mcq",
+    "question": "In what context does the Qur'an mention trimesters of darkness?",
+    "options": [
+      "Creation of human being",
+      "Suffering in hell",
+      "Retribution for disbelievers",
+      "Allegory for the actions of an hypocrite"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 39:6",
+    "source_row": 422,
+    "active": true
+  },
+  {
+    "id": 376,
+    "type": "mcq",
+    "question": "The provisions for the earth was calculated in_____ days",
+    "options": [
+      "4",
+      "6",
+      "7",
+      "3"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 41:10",
+    "source_row": 423,
+    "active": true
+  },
+  {
+    "id": 377,
+    "type": "mcq",
+    "question": "According to Sura 6 verse 113, who will accept the fabrications created by the enemies of the prophet?",
+    "options": [
+      "Those who do not believe in the hereafter",
+      "Those who are stingy",
+      "Those who backbite",
+      "Only those who satisfy all of the above"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 6:112-113",
+    "source_row": 424,
+    "active": true
+  },
+  {
+    "id": 378,
+    "type": "mcq",
+    "question": "Which of these scientific theories is discussed in Sura 51 verse 47?",
+    "options": [
+      "Expansion of the Universe",
+      "Theory of relativity",
+      "Quantum theory",
+      "Tectonic theory"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 51:47",
+    "source_row": 425,
+    "active": true
+  },
+  {
+    "id": 379,
+    "type": "mcq",
+    "question": "Which of these scientific facts is discussed in Sura 27 verse 88?",
+    "options": [
+      "Movement of Earth",
+      "Theory of relativity",
+      "Quantum theory",
+      "Atomic theory"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 27:88",
+    "source_row": 426,
+    "active": true
+  },
+  {
+    "id": 380,
+    "type": "mcq",
+    "question": "What is the common factor between Apes, Quail and Calf?",
+    "options": [
+      "They are all mentioned in relation to the Children of Israel",
+      "One of them is mentioned in the history not related to Children of Israel",
+      "They are all mentioned in Sura 2",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 427,
+    "active": true
+  },
+  {
+    "id": 381,
+    "type": "mcq",
+    "question": "Based on the history of Children of Israel, pick the odd one out.",
+    "options": [
+      "Falcon",
+      "Apes",
+      "Frog",
+      "Snake"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 428,
+    "active": true
+  },
+  {
+    "id": 382,
+    "type": "mcq",
+    "question": "Based on the history of Children of Israel, pick the odd one out.",
+    "options": [
+      "Locust",
+      "Donkey",
+      "Lice",
+      "Frog"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 7:133",
+    "source_row": 429,
+    "active": true
+  },
+  {
+    "id": 383,
+    "type": "mcq",
+    "question": "Which of these animals are mentioned in reference to the children of Israel?",
+    "options": [
+      "Donkey",
+      "Bee",
+      "Lion",
+      "Mule"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 62:5",
+    "source_row": 430,
+    "active": true
+  },
+  {
+    "id": 384,
+    "type": "mcq",
+    "question": "Who among these were descendents of Noah.",
+    "options": [
+      "David and Solomon",
+      "Moses and Aaron",
+      "Joseph and Job",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "Sura 6:84",
+    "source_row": 433,
+    "active": true
+  },
+  {
+    "id": 385,
+    "type": "mcq",
+    "question": "Who among these were given scripture from GOD?",
+    "options": [
+      "Moses and Aaron",
+      "Ismail and Lot",
+      "Zachariah and Job",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "Sura 6:85-89",
+    "source_row": 434,
+    "active": true
+  },
+  {
+    "id": 386,
+    "type": "mcq",
+    "question": "Who among these are described in the Quran as steadfast?",
+    "options": [
+      "Ismail and Idris",
+      "Ismail and Job",
+      "Job and Zal-Kifl",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "Sura 21:83-85",
+    "source_row": 435,
+    "active": true
+  },
+  {
+    "id": 387,
+    "type": "mcq",
+    "question": "Both Job and Jonah were prophets.",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "Only one of them is mentioned as a prophet",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 6:85-89",
+    "source_row": 436,
+    "active": true
+  },
+  {
+    "id": 388,
+    "type": "mcq",
+    "question": "1. John was the Son of Zachriah 2. John was prophet 3.Zacriah was a prophet",
+    "options": [
+      "Statement 1 and 2 are True, 3 is false",
+      "Statement 1 and 3 are True, 2 is false",
+      "Statement 2 and 3 are True, 1 is false",
+      "All the Statements are True"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 437,
+    "active": true
+  },
+  {
+    "id": 389,
+    "type": "mcq",
+    "question": "Which of these statements is true?",
+    "options": [
+      "Abraham and Lot, both were prophets",
+      "Abraham was a Prophet and Lot believed with him but was only a messenger",
+      "Abraham was a Prophet but Lot's prophethood is not mentioned in the Quran",
+      "Abraham was a Saint and Lot was only a messenger not a prophet"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 29:24-26",
+    "source_row": 438,
+    "active": true
+  },
+  {
+    "id": 390,
+    "type": "mcq",
+    "question": "How many verses are there in the Quran?",
+    "options": [
+      "6346",
+      "6436",
+      "6234",
+      "6466"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 439,
+    "active": true
+  },
+  {
+    "id": 391,
+    "type": "mcq",
+    "question": "How many numbered verses are there in the Quran",
+    "options": [
+      "6346",
+      "6234",
+      "6436",
+      "6432"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 440,
+    "active": true
+  },
+  {
+    "id": 392,
+    "type": "mcq",
+    "question": "How many un-numbered verses are there in the Quran?",
+    "options": [
+      "114",
+      "113",
+      "112",
+      "115"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 441,
+    "active": true
+  },
+  {
+    "id": 393,
+    "type": "mcq",
+    "question": "Which Sura's have Five initials?",
+    "options": [
+      "Sura 7: The Purgatory (Al-A‘arãf) and Sura 42: Consultation (Al-Shoorã)",
+      "Sura 7: The Purgatory (Al-A‘arãf) and Surah 19: Mary (Maryam)",
+      "Surah 19: Mary (Maryam) and Sura 42: Consultation (Al-Shoorã)",
+      "Sura 13: Thunder (Al-Ra‘ad) and Surah 19: Mary (Maryam)"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 442,
+    "active": true
+  },
+  {
+    "id": 394,
+    "type": "mcq",
+    "question": "Which Sura's have the initials H. M. ?",
+    "options": [
+      "Sura 40 to Sura 46",
+      "Sura 39 to Sura 45",
+      "Sura 40 to Sura 45",
+      "Sura 41 to Sura 47"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 443,
+    "active": true
+  },
+  {
+    "id": 395,
+    "type": "mcq",
+    "question": "Which Sura's have the initial Q ?",
+    "options": [
+      "Sura 50: Q. (Qãf) and Sura 42: Consultation (Al-Shoorã)",
+      "Sura 50: Q. (Qãf) and Surah 19: Mary (Maryam)",
+      "Sura 50: Q. (Qãf) and Sura 13: Thunder (Al-Ra‘ad)",
+      "Sura 50: Q. (Qãf) and Sura 48: Victory (Al-Fatt-h)"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 444,
+    "active": true
+  },
+  {
+    "id": 396,
+    "type": "mcq",
+    "question": "Which Sura's have the initials A.L.M. ?",
+    "options": [
+      "Sura 2, 3 , 28 ,29 , 30, 31 & 32",
+      "Sura 2, 3 , 29 ,30 ,31 & 32",
+      "Sura 2, 3 ,30 ,31, 32 & 33",
+      "Sura 2, 3 , 29 ,30, 32 & 35"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 445,
+    "active": true
+  },
+  {
+    "id": 397,
+    "type": "mcq",
+    "question": "Which Sura's have the initials A.L.R. ?",
+    "options": [
+      "Sura 14,15,17,19 &21",
+      "Sura 10,11,14,15 & 17",
+      "Sura 11,12,14,15 & 16",
+      "Sura 10,11,12,14 & 15"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 446,
+    "active": true
+  },
+  {
+    "id": 398,
+    "type": "mcq",
+    "question": "How many Sura's in the Quran have a Prophet's name as a title?",
+    "options": [
+      "Three Sura's or Less",
+      "Atleast Four Sura's",
+      "Two Sura's",
+      "No Sura has the title of a Prophet's name"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 452,
+    "active": true
+  },
+  {
+    "id": 399,
+    "type": "mcq",
+    "question": "Which of these attributes of GOD are used as Sura Titles.",
+    "options": [
+      "The Supreme and The Omniscient",
+      "The Avenger and Most Gracious",
+      "Most Gracious and Forgiver",
+      "None of the above"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 456,
+    "active": true
+  },
+  {
+    "id": 400,
+    "type": "mcq",
+    "question": "Which of these rites is mentioned as a Sura title in the Quran?",
+    "options": [
+      "Contact Prayers (Salat)",
+      "Fasting ( Seyam)",
+      "Obligatory charity (Zakat)",
+      "Pilgrimage (Al-Hajj)"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 457,
+    "active": true
+  },
+  {
+    "id": 401,
+    "type": "mcq",
+    "question": "Which of these attributes of GOD are used as Sura Titles.",
+    "options": [
+      "Most High and Initiator",
+      "Most Gracious and the Light",
+      "Most Gracious and Forgiver",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 458,
+    "active": true
+  },
+  {
+    "id": 402,
+    "type": "mcq",
+    "question": "Which of these attributes of GOD are used as Sura Titles.",
+    "options": [
+      "Most High and Initiator",
+      "The Supreme and The Omniscient",
+      "Most Sacred and Peace",
+      "None of the above"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 459,
+    "active": true
+  },
+  {
+    "id": 403,
+    "type": "mcq",
+    "question": "According to Sura 78  \"The day will come when the ______ and the ______ will stand in a row.\"",
+    "options": [
+      "Humans and Jinns",
+      "Spirit and Angels",
+      "Humans and Angels",
+      "Angels and Jinns"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 78:38",
+    "source_row": 460,
+    "active": true
+  },
+  {
+    "id": 404,
+    "type": "mcq",
+    "question": "Which of these Prophets/messenger's names are used as Sura Titles?",
+    "options": [
+      "Muhammed and Joseph",
+      "Abraham and Jonah",
+      "Hud and Noah",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 461,
+    "active": true
+  },
+  {
+    "id": 405,
+    "type": "mcq",
+    "question": "Which of these Community names are used as Sura Titles.",
+    "options": [
+      "Children of Israel and Quraish",
+      "Children of Israel and Aad",
+      "Romans and Sodom",
+      "Romans and Midyan"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 462,
+    "active": true
+  },
+  {
+    "id": 406,
+    "type": "mcq",
+    "question": "Which of these Community names is not used as Sura Titles.",
+    "options": [
+      "Children of Israel",
+      "Quraish",
+      "Aad",
+      "None of the above"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 463,
+    "active": true
+  },
+  {
+    "id": 407,
+    "type": "mcq",
+    "question": "According to Sura 9, who are reffered to as Muhajerin?",
+    "options": [
+      "The believers who fought in the early battles of Islam",
+      "The people who immigrated in the cause of GOD",
+      "The helpers who gave refuge to the immigrants",
+      "The disbelievers who later accepted Islam"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 9:100",
+    "source_row": 464,
+    "active": true
+  },
+  {
+    "id": 408,
+    "type": "mcq",
+    "question": "According to Sura 9 verse 100, who are reffered to as Ansar?",
+    "options": [
+      "The people who immigrated in the cause of GOD",
+      "The warriors who participated in the Battle of Badr",
+      "The leaders of the Quraish who later accepted Islam",
+      "The helpers who gave refuge to the immigrants"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "Sura 9:100",
+    "source_row": 465,
+    "active": true
+  },
+  {
+    "id": 409,
+    "type": "mcq",
+    "question": "Which three categories of people are explicitly mentioned in verse 48:17 as not to be blamed?",
+    "options": [
+      "The poor, widowed and orphaned",
+      "The blind, crippled and sick",
+      "The blind, elderly and traveler",
+      "The ignorant, weak and poor"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 48:17",
+    "source_row": 466,
+    "active": true
+  },
+  {
+    "id": 410,
+    "type": "mcq",
+    "question": "According to Sura 48 Verse 18 where were the believers when they pledged allegiance to the messenger?",
+    "options": [
+      "Inside the Sacred Masjid",
+      "In the valley of Mecca",
+      "Under the Tree",
+      "At the gates of the city"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "Sura 48:18",
+    "source_row": 467,
+    "active": true
+  },
+  {
+    "id": 411,
+    "type": "mcq",
+    "question": "According to Sura 2 Verse 61, which earthly crops did the people ask Moses to produce for them?",
+    "options": [
+      "Beans, cucumbers, garlic, lentils, and onions",
+      "Wheat, beans, dates, figs and cucumber",
+      "Olives, pomegranates, wheat, garlic, and beans",
+      "Figs, lentils, garlic, onion, and dates"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 2:61",
+    "source_row": 468,
+    "active": true
+  },
+  {
+    "id": 412,
+    "type": "mcq",
+    "question": "According to  Sura 33 Verse 7, which prophets are explicitly named as taking a covenant along with prophet Muhammed ?",
+    "options": [
+      "Adam, Noah, David and Solomon",
+      "Noah, Abraham, Moses and Jesus the son of Mary",
+      "Abraham, Ismail, Issac and Jacob",
+      "Moses, Aaron, Zachariah and John"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 33:7",
+    "source_row": 469,
+    "active": true
+  },
+  {
+    "id": 413,
+    "type": "mcq",
+    "question": "According to  Sura 33 Verse 37, what precedent was established by the prophet by marrying Zeid's former wife?",
+    "options": [
+      "Adoption is completely forbidden in religion, if you are married",
+      "A man can marry the divorced wife of his son",
+      "A man can marry the divorced wife of his adopted son",
+      "Divorce requires public proclamation"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "Sura 33:37",
+    "source_row": 470,
+    "active": true
+  },
+  {
+    "id": 414,
+    "type": "mcq",
+    "question": "According to  Sura 35 Verse 1, Angels are appointed as messengers with how many wings?",
+    "options": [
+      "One, Two and Three",
+      "Two, Three and Four",
+      "Two, Four and Six",
+      "One, Three and Five"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 35:1",
+    "source_row": 471,
+    "active": true
+  },
+  {
+    "id": 415,
+    "type": "mcq",
+    "question": "The people who are averse to the reminder (Quran) are compared to zebras fleeing from what?",
+    "options": [
+      "A Wolf",
+      "A Lion",
+      "A Fire",
+      "A Storm"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 74:51",
+    "source_row": 472,
+    "active": true
+  },
+  {
+    "id": 416,
+    "type": "mcq",
+    "question": "How should a person atone for estranging his wife by declaring her to be like his mother?",
+    "options": [
+      "By freeing a slave before resuming their sexual relations.",
+      "By fasting three consecutive months before resuming sexual relations",
+      "By feeding Twenty poor people",
+      "By clothing ten poor people"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 58:2-3",
+    "source_row": 473,
+    "active": true
+  },
+  {
+    "id": 417,
+    "type": "mcq",
+    "question": "If a person wants to atone for declaring his wife to be like his mother and cannot find a slave to free, how should he atone?",
+    "options": [
+      "By fasting three consecutive months before resuming sexual relations",
+      "By feeding Twenty poor people",
+      "By fasting two consecutive months before resuming sexual relations",
+      "By feeding Thirty poor people"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "Sura 58:2-3",
+    "source_row": 474,
+    "active": true
+  },
+  {
+    "id": 418,
+    "type": "mcq",
+    "question": "If a person wants to atone for declaring his wife to be like his mother and cannot find a slave to free, and cannot fast, how should he atone?",
+    "options": [
+      "By feeding Twenty poor people",
+      "By feeding Thirty poor people",
+      "By feeding Forty poor people",
+      "By feeding Sixty poor people"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "Sura 58:2-3",
+    "source_row": 475,
+    "active": true
+  },
+  {
+    "id": 419,
+    "type": "mcq",
+    "question": "Which of these messenger's history discuss the act of stoning?",
+    "options": [
+      "Noah",
+      "Abraham",
+      "Shuaib",
+      "All of the above"
+    ],
+    "correct": "D",
+    "difficulty": "hard",
+    "reference": "Sura 11:91",
+    "source_row": 476,
+    "active": true
+  },
+  {
+    "id": 420,
+    "type": "mcq",
+    "question": "According to Sura 58 Verse 12, what are believers instructed to do before conferring with the messenger?",
+    "options": [
+      "Perform Ablution",
+      "Offer Charity",
+      "Observe the Contact Prayers (Salat)",
+      "Fast for one full day"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 58:12",
+    "source_row": 477,
+    "active": true
+  },
+  {
+    "id": 421,
+    "type": "mcq",
+    "question": "A day of your Lord is like a ______ of your years.",
+    "options": [
+      "Two thousand",
+      "Seventy thousand",
+      "Thousand",
+      "Six Thousand"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "Sura 22:47",
+    "source_row": 478,
+    "active": true
+  },
+  {
+    "id": 422,
+    "type": "mcq",
+    "question": "How many times the word GOD is mentioned in the Quran?",
+    "options": [
+      "More than 100 but less than 500",
+      "More than 500 but less than 1000",
+      "More than 2000",
+      "More than 8000"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 479,
+    "active": true
+  },
+  {
+    "id": 423,
+    "type": "mcq",
+    "question": "How many times the word Salat (Contact Prayers) is mentioned in the Quran?",
+    "options": [
+      "More than 20 but less than 30",
+      "More than 30 but less than 50",
+      "More than 50",
+      "More than 500"
+    ],
+    "correct": "C",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 480,
+    "active": true
+  },
+  {
+    "id": 424,
+    "type": "mcq",
+    "question": "Which of these statements is true?",
+    "options": [
+      "Jesus brought Gospel and confirmed Torah",
+      "Jesus brought Gospel but did not confirm Torah",
+      "Jesus brought Gospel and confirmed Psalms",
+      "Jesus brought Gospel and did not confirm any previous scriptures"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 5:46",
+    "source_row": 481,
+    "active": true
+  },
+  {
+    "id": 425,
+    "type": "mcq",
+    "question": "According to Sura 58 Verse 10, What does the devil seek to do through secret conspiracies?",
+    "options": [
+      "Increase the wealth of disbelievers",
+      "Hurt those who believed",
+      "Break marriages",
+      "Create dispute between disbelievers"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "Sura 58:10",
+    "source_row": 482,
+    "active": true
+  },
+  {
+    "id": 426,
+    "type": "mcq",
+    "question": "According to Sura 46, when the people of Aad saw a storm heading their way, what did they think it would bring?",
+    "options": [
+      "Rain",
+      "GOD's Retribution",
+      "Signs of the Dunes",
+      "Bad Omens"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 46:24",
+    "source_row": 483,
+    "active": true
+  },
+  {
+    "id": 427,
+    "type": "mcq",
+    "question": "According to Sura 46 verse 15, how many months does a mother take intimate care of a child?",
+    "options": [
+      "Thirty months",
+      "Twenty months",
+      "Twelve months",
+      "Thirty Six months"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "Sura 46:15",
+    "source_row": 484,
+    "active": true
+  },
+  {
+    "id": 428,
+    "type": "tf",
+    "question": "The Quran is a healing",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 23,
+    "active": true
+  },
+  {
+    "id": 429,
+    "type": "tf",
+    "question": "Parents can take up the sins of their children.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 28,
+    "active": true
+  },
+  {
+    "id": 430,
+    "type": "tf",
+    "question": "Prophet Muhammed will take up our sins on the day of resurrection.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 29,
+    "active": true
+  },
+  {
+    "id": 431,
+    "type": "tf",
+    "question": "Jesus will take up our sins on the day of resurrection.",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 30,
+    "active": true
+  },
+  {
+    "id": 432,
+    "type": "tf",
+    "question": "GOD teaches us in the Quran that we should wear head cap during contact prayers.",
+    "options": [
+      "This statement is True",
+      "This statement is False"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 31,
+    "active": true
+  },
+  {
+    "id": 433,
+    "type": "tf",
+    "question": "Pharoah was an enemy of GOD.",
+    "options": [
+      "This information is not given in the Quran",
+      "This statement is False",
+      "This statement is True"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 32,
+    "active": true
+  },
+  {
+    "id": 434,
+    "type": "tf",
+    "question": "Those who believe and lead a righteous life will have garments made of _____ in the Gardens of Eden.",
+    "options": [
+      "Cotton",
+      "Diamond",
+      "Silk"
+    ],
+    "correct": "C",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 34,
+    "active": true
+  },
+  {
+    "id": 435,
+    "type": "tf",
+    "question": "Chronologically, the people of Aad came after the people of Noah.",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 36,
+    "active": true
+  },
+  {
+    "id": 436,
+    "type": "tf",
+    "question": "Chronologically, the people of Noah came after the people of Aad.",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 37,
+    "active": true
+  },
+  {
+    "id": 437,
+    "type": "tf",
+    "question": "Chronologically, the people of Thamoud came after the people of Aad.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 38,
+    "active": true
+  },
+  {
+    "id": 438,
+    "type": "tf",
+    "question": "Chronologically, the people of Aad came after the people of Thamoud.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 39,
+    "active": true
+  },
+  {
+    "id": 439,
+    "type": "tf",
+    "question": "Jesus was a son of GOD.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 46,
+    "active": true
+  },
+  {
+    "id": 440,
+    "type": "tf",
+    "question": "Jesus said \"Make me and my mother idols beside GOD\"",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 48,
+    "active": true
+  },
+  {
+    "id": 441,
+    "type": "tf",
+    "question": "Joseph almost succumbed to the lady of the house when she seduced him.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 52,
+    "active": true
+  },
+  {
+    "id": 442,
+    "type": "tf",
+    "question": "The Quran was sent down all at once but was released slowly over a long period.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 100,
+    "active": true
+  },
+  {
+    "id": 443,
+    "type": "tf",
+    "question": "Mary became pregnant without any man touching her.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 105,
+    "active": true
+  },
+  {
+    "id": 444,
+    "type": "tf",
+    "question": "The title of Sura 74 is The Hidden Secret (Al-Muddath-thir)",
+    "options": [
+      "This statement is True",
+      "This statement is False"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 129,
+    "active": true
+  },
+  {
+    "id": 445,
+    "type": "tf",
+    "question": "What prevented the people from believing when the guidance came to them?",
+    "options": [
+      "They did not understand the language of the revelation",
+      "They said \"Did GOD send a human being as a messenger?\"",
+      "They had better guidance than what the messenger brought"
+    ],
+    "correct": "B",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 159,
+    "active": true
+  },
+  {
+    "id": 446,
+    "type": "tf",
+    "question": "When a person reaches maturity and the age of 40, he should say a supplication appreciating GOD's blessings, declaring repentance and submitting to GOD.",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "easy",
+    "reference": "",
+    "source_row": 163,
+    "active": true
+  },
+  {
+    "id": 447,
+    "type": "tf",
+    "question": "John was a righteous prophet",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "",
+    "source_row": 185,
+    "active": true
+  },
+  {
+    "id": 448,
+    "type": "tf",
+    "question": "Joseph was able to inform his prison mates about any food that will be provided to them, before they receive it.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "",
+    "source_row": 203,
+    "active": true
+  },
+  {
+    "id": 449,
+    "type": "tf",
+    "question": "One of Jospeh's prison mate was going to be crucified.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "",
+    "source_row": 205,
+    "active": true
+  },
+  {
+    "id": 450,
+    "type": "tf",
+    "question": "GOD provided the children of Adam with advantages over may other creatures.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "",
+    "source_row": 310,
+    "active": true
+  },
+  {
+    "id": 451,
+    "type": "tf",
+    "question": "Quran confirms the scientific fact that Sun and Moon have their own orbits.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "medium",
+    "reference": "",
+    "source_row": 317,
+    "active": true
+  },
+  {
+    "id": 452,
+    "type": "tf",
+    "question": "There is Sura in Quran called The Fig (Al-Teen)",
+    "options": [
+      "This statement is True",
+      "This statement is False"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "",
+    "source_row": 339,
+    "active": true
+  },
+  {
+    "id": 453,
+    "type": "tf",
+    "question": "There are Sura's in Quran called The Believers (Al-Mu’minûn),The Disbelievers (Al-Kaaferoon) and The Hypocrites (Al-Munaafeqoon)",
+    "options": [
+      "This statement is True",
+      "This statement is False"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "",
+    "source_row": 340,
+    "active": true
+  },
+  {
+    "id": 454,
+    "type": "tf",
+    "question": "Jesus gave a good news to the children of Israel, of a messenger to come after him.",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "",
+    "source_row": 365,
+    "active": true
+  },
+  {
+    "id": 455,
+    "type": "tf",
+    "question": "Bearing a child is an arduous process.",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "medium",
+    "reference": "",
+    "source_row": 376,
+    "active": true
+  },
+  {
+    "id": 456,
+    "type": "tf",
+    "question": "Jesus was a descendent of Aaron.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 396,
+    "active": true
+  },
+  {
+    "id": 457,
+    "type": "tf",
+    "question": "GOD taught Jesus the Torah and the Gospel.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 400,
+    "active": true
+  },
+  {
+    "id": 458,
+    "type": "tf",
+    "question": "Joseph's brothers produced his shirt to their father with Joseph's blood.",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 404,
+    "active": true
+  },
+  {
+    "id": 459,
+    "type": "tf",
+    "question": "Moses and Aaron were given a Statute Book.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 409,
+    "active": true
+  },
+  {
+    "id": 460,
+    "type": "tf",
+    "question": "The wife of Amram was a chaste women.",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 415,
+    "active": true
+  },
+  {
+    "id": 461,
+    "type": "tf",
+    "question": "According to the family of mary, Amram was a good man.",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 416,
+    "active": true
+  },
+  {
+    "id": 462,
+    "type": "tf",
+    "question": "Zachriah was a prophet.",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 431,
+    "active": true
+  },
+  {
+    "id": 463,
+    "type": "tf",
+    "question": "Elisha and Elias were given scripture from GOD.",
+    "options": [
+      "This statement is False",
+      "This statement is True",
+      "This information is not given in the Quran"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 432,
+    "active": true
+  },
+  {
+    "id": 464,
+    "type": "tf",
+    "question": "There is Sura in Quran called The Column (Al-Suff).",
+    "options": [
+      "This statement is False",
+      "This statement is True"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 447,
+    "active": true
+  },
+  {
+    "id": 465,
+    "type": "tf",
+    "question": "There is Sura in Quran called The Satan (Al-Iblis).",
+    "options": [
+      "This statement is True",
+      "This statement is False"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 448,
+    "active": true
+  },
+  {
+    "id": 466,
+    "type": "tf",
+    "question": "There is Sura in Quran called Cooling the Temper (Al-Sharrhh)",
+    "options": [
+      "This statement is True",
+      "This statement is False"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 449,
+    "active": true
+  },
+  {
+    "id": 467,
+    "type": "tf",
+    "question": "There is Sura in Quran called Jesus (Isa)",
+    "options": [
+      "This statement is True",
+      "This statement is False"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 450,
+    "active": true
+  },
+  {
+    "id": 468,
+    "type": "tf",
+    "question": "There is Sura in Quran called Incontestable (Al-Haaqqah)",
+    "options": [
+      "This statement is True",
+      "This statement is False"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 451,
+    "active": true
+  },
+  {
+    "id": 469,
+    "type": "tf",
+    "question": "Some of the Sura Title's in the Quran are based on the name of a community.",
+    "options": [
+      "This statement is False",
+      "This statement is True"
+    ],
+    "correct": "B",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 453,
+    "active": true
+  },
+  {
+    "id": 470,
+    "type": "tf",
+    "question": "The people of Al-Hijr disbelieved the messengers.",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 454,
+    "active": true
+  },
+  {
+    "id": 471,
+    "type": "tf",
+    "question": "The people of Al-Hijr used to carve secure homes out of the mountains.",
+    "options": [
+      "This statement is True",
+      "This statement is False",
+      "This information is not given in the Quran"
+    ],
+    "correct": "A",
+    "difficulty": "hard",
+    "reference": "",
+    "source_row": 455,
+    "active": true
+  }
+]
